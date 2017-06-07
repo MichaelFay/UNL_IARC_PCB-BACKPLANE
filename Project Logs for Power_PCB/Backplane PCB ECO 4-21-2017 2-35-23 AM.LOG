@@ -1,0 +1,19 @@
+Added Class: Name=BackPlane Connector
+Added Member To Class: ClassName=Programmer Member=Component C1 0.1uF
+Added Member To Class: ClassName=Programmer Member=Component C2 0.1uF
+Added Member To Class: ClassName=Programmer Member=Component C4 100nF
+Added Member To Class: ClassName=Programmer Member=Component C5 10uF
+Added Member To Class: ClassName=Programmer Member=Component D2 RED
+Added Member To Class: ClassName=Programmer Member=Component D3 GREEN
+Added Member To Class: ClassName=Programmer Member=Component D4 SMAJ5.0A
+Added Member To Class: ClassName=Programmer Member=Component F1 500mA
+Added Member To Class: ClassName=Programmer Member=Component FT232RL FT232RL USB UART 
+Added Member To Class: ClassName=Programmer Member=Component R4 1K
+Added Member To Class: ClassName=Programmer Member=Component R5 1K
+Added Member To Class: ClassName=Programmer Member=Component R6 1k
+Added Member To Class: ClassName=Programmer Member=Component R7 1k
+Added Member To Class: ClassName=Programmer Member=Component R8 1k
+Added Member To Class: ClassName=Programmer Member=Component R9 10K
+Added Member To Class: ClassName=Programmer Member=Component Reset FSM6JSMA
+Added Member To Class: ClassName=Programmer Member=Component  Micro USB
+Added Room: Name=BackPlane Connector

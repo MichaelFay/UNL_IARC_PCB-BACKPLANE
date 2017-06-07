@@ -1,0 +1,164 @@
+Removed Parameter ComponentLink3Description: from Part R10
+Removed Parameter ComponentLink3Description: from Part R11
+Removed Parameter ComponentLink3Description: from Part R12
+Removed Parameter ComponentLink3Description: from Part R13
+Removed Parameter ComponentLink3Description: from Part R14
+Removed Parameter ComponentLink3Description: from Part R15
+Removed Parameter ComponentLink3Description: from Part R16
+Removed Parameter ComponentLink3Description: from Part R17
+Removed Parameter ComponentLink3Description: from Part R18
+Removed Parameter ComponentLink3Description: from Part R19
+Removed Parameter ComponentLink3Description: from Part R20
+Removed Parameter ComponentLink3Description: from Part R21
+Removed Parameter ComponentLink3Description: from Part R22
+Removed Parameter ComponentLink3Description: from Part R23
+Removed Parameter ComponentLink3Description: from Part R24
+Removed Parameter ComponentLink3Description: from Part R25
+Removed Parameter ComponentLink3Description: from Part R26
+Removed Parameter ComponentLink3Description: from Part R27
+Removed Parameter ComponentLink3Description: from Part R28
+Removed Parameter ComponentLink3Description: from Part R29
+Removed Parameter ComponentLink3Description: from Part R30
+Removed Parameter ComponentLink3Description: from Part R40
+Removed Parameter ComponentLink3Description: from Part R41
+Removed Parameter ComponentLink3Description: from Part R42
+Removed Parameter ComponentLink3Description: from Part R43
+Removed Parameter ComponentLink3Description: from Part R44
+Removed Parameter ComponentLink3Description: from Part R45
+Removed Parameter ComponentLink3URL: from Part R10
+Removed Parameter ComponentLink3URL: from Part R11
+Removed Parameter ComponentLink3URL: from Part R12
+Removed Parameter ComponentLink3URL: from Part R13
+Removed Parameter ComponentLink3URL: from Part R14
+Removed Parameter ComponentLink3URL: from Part R15
+Removed Parameter ComponentLink3URL: from Part R16
+Removed Parameter ComponentLink3URL: from Part R17
+Removed Parameter ComponentLink3URL: from Part R18
+Removed Parameter ComponentLink3URL: from Part R19
+Removed Parameter ComponentLink3URL: from Part R20
+Removed Parameter ComponentLink3URL: from Part R21
+Removed Parameter ComponentLink3URL: from Part R22
+Removed Parameter ComponentLink3URL: from Part R23
+Removed Parameter ComponentLink3URL: from Part R24
+Removed Parameter ComponentLink3URL: from Part R25
+Removed Parameter ComponentLink3URL: from Part R26
+Removed Parameter ComponentLink3URL: from Part R27
+Removed Parameter ComponentLink3URL: from Part R28
+Removed Parameter ComponentLink3URL: from Part R29
+Removed Parameter ComponentLink3URL: from Part R30
+Removed Parameter ComponentLink3URL: from Part R40
+Removed Parameter ComponentLink3URL: from Part R41
+Removed Parameter ComponentLink3URL: from Part R42
+Removed Parameter ComponentLink3URL: from Part R43
+Removed Parameter ComponentLink3URL: from Part R44
+Removed Parameter ComponentLink3URL: from Part R45
+Removed Parameter Supplier 2: from Part R10
+Removed Parameter Supplier 2: from Part R11
+Removed Parameter Supplier 2: from Part R12
+Removed Parameter Supplier 2: from Part R13
+Removed Parameter Supplier 2: from Part R14
+Removed Parameter Supplier 2: from Part R15
+Removed Parameter Supplier 2: from Part R16
+Removed Parameter Supplier 2: from Part R17
+Removed Parameter Supplier 2: from Part R18
+Removed Parameter Supplier 2: from Part R19
+Removed Parameter Supplier 2: from Part R20
+Removed Parameter Supplier 2: from Part R21
+Removed Parameter Supplier 2: from Part R22
+Removed Parameter Supplier 2: from Part R23
+Removed Parameter Supplier 2: from Part R24
+Removed Parameter Supplier 2: from Part R25
+Removed Parameter Supplier 2: from Part R26
+Removed Parameter Supplier 2: from Part R27
+Removed Parameter Supplier 2: from Part R28
+Removed Parameter Supplier 2: from Part R29
+Removed Parameter Supplier 2: from Part R30
+Removed Parameter Supplier 2: from Part R40
+Removed Parameter Supplier 2: from Part R41
+Removed Parameter Supplier 2: from Part R42
+Removed Parameter Supplier 2: from Part R43
+Removed Parameter Supplier 2: from Part R44
+Removed Parameter Supplier 2: from Part R45
+Removed Parameter Supplier Part Number 2: from Part R10
+Removed Parameter Supplier Part Number 2: from Part R11
+Removed Parameter Supplier Part Number 2: from Part R12
+Removed Parameter Supplier Part Number 2: from Part R13
+Removed Parameter Supplier Part Number 2: from Part R14
+Removed Parameter Supplier Part Number 2: from Part R15
+Removed Parameter Supplier Part Number 2: from Part R16
+Removed Parameter Supplier Part Number 2: from Part R17
+Removed Parameter Supplier Part Number 2: from Part R18
+Removed Parameter Supplier Part Number 2: from Part R19
+Removed Parameter Supplier Part Number 2: from Part R20
+Removed Parameter Supplier Part Number 2: from Part R21
+Removed Parameter Supplier Part Number 2: from Part R22
+Removed Parameter Supplier Part Number 2: from Part R23
+Removed Parameter Supplier Part Number 2: from Part R24
+Removed Parameter Supplier Part Number 2: from Part R25
+Removed Parameter Supplier Part Number 2: from Part R26
+Removed Parameter Supplier Part Number 2: from Part R27
+Removed Parameter Supplier Part Number 2: from Part R28
+Removed Parameter Supplier Part Number 2: from Part R29
+Removed Parameter Supplier Part Number 2: from Part R30
+Removed Parameter Supplier Part Number 2: from Part R40
+Removed Parameter Supplier Part Number 2: from Part R41
+Removed Parameter Supplier Part Number 2: from Part R42
+Removed Parameter Supplier Part Number 2: from Part R43
+Removed Parameter Supplier Part Number 2: from Part R44
+Removed Parameter Supplier Part Number 2: from Part R45
+Change Component Parameter Comment in R10 Old= New==Value
+Change Component Parameter Comment in R11 Old= New==Value
+Change Component Parameter Comment in R12 Old= New==Value
+Change Component Parameter Comment in R13 Old= New==Value
+Change Component Parameter Comment in R14 Old= New==Value
+Change Component Parameter Comment in R15 Old= New==Value
+Change Component Parameter Comment in R16 Old= New==Value
+Change Component Parameter Comment in R17 Old= New==Value
+Change Component Parameter Comment in R18 Old= New==Value
+Change Component Parameter Comment in R19 Old= New==Value
+Change Component Parameter Comment in R20 Old= New==Value
+Change Component Parameter Comment in R21 Old= New==Value
+Change Component Parameter Comment in R22 Old= New==Value
+Change Component Parameter Comment in R23 Old= New==Value
+Change Component Parameter Comment in R24 Old= New==Value
+Change Component Parameter Comment in R25 Old= New==Value
+Change Component Parameter Comment in R26 Old= New==Value
+Change Component Parameter Comment in R27 Old= New==Value
+Change Component Parameter Comment in R28 Old= New==Value
+Change Component Parameter Comment in R29 Old= New==Value
+Change Component Parameter Comment in R30 Old= New==Value
+Change Component Parameter Comment in R40 Old= New==Value
+Change Component Parameter Comment in R41 Old= New==Value
+Change Component Parameter Comment in R42 Old= New==Value
+Change Component Parameter Comment in R43 Old= New==Value
+Change Component Parameter Comment in R44 Old= New==Value
+Change Component Parameter Comment in R45 Old= New==Value
+Replace Symbol from BATTERY_FUSE PPTC_PTH in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\BatteryMonitor.SchDoc with PPTC_PTH from SparkFun-Fuses.IntLib
+Replace Symbol from LEFT Header 2 in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\BatteryMonitor.SchDoc with Header 2 from Miscellaneous Connectors.IntLib
+Replace Symbol from R10 Resistor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\BatteryMonitor.SchDoc with Resistor from Celestial Library Database.DbLib
+Replace Symbol from R11 Resistor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\BatteryMonitor.SchDoc with Resistor from Celestial Library Database.DbLib
+Replace Symbol from R12 Resistor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\BatteryMonitor.SchDoc with Resistor from Celestial Library Database.DbLib
+Replace Symbol from R13 Resistor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\BatteryMonitor.SchDoc with Resistor from Celestial Library Database.DbLib
+Replace Symbol from R14 Resistor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\BatteryMonitor.SchDoc with Resistor from Celestial Library Database.DbLib
+Replace Symbol from R15 Resistor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\BatteryMonitor.SchDoc with Resistor from Celestial Library Database.DbLib
+Replace Symbol from R16 Resistor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\BatteryMonitor.SchDoc with Resistor from Celestial Library Database.DbLib
+Replace Symbol from R17 Resistor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\BatteryMonitor.SchDoc with Resistor from Celestial Library Database.DbLib
+Replace Symbol from R18 Resistor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\BatteryMonitor.SchDoc with Resistor from Celestial Library Database.DbLib
+Replace Symbol from R19 Resistor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\BatteryMonitor.SchDoc with Resistor from Celestial Library Database.DbLib
+Replace Symbol from R20 Resistor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\BatteryMonitor.SchDoc with Resistor from Celestial Library Database.DbLib
+Replace Symbol from R21 Resistor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\BatteryMonitor.SchDoc with Resistor from Celestial Library Database.DbLib
+Replace Symbol from R22 Resistor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\BatteryMonitor.SchDoc with Resistor from Celestial Library Database.DbLib
+Replace Symbol from R23 Resistor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\BatteryMonitor.SchDoc with Resistor from Celestial Library Database.DbLib
+Replace Symbol from R24 Resistor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\BatteryMonitor.SchDoc with Resistor from Celestial Library Database.DbLib
+Replace Symbol from R25 Resistor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\BatteryMonitor.SchDoc with Resistor from Celestial Library Database.DbLib
+Replace Symbol from R26 Resistor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\BatteryMonitor.SchDoc with Resistor from Celestial Library Database.DbLib
+Replace Symbol from R27 Resistor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\BatteryMonitor.SchDoc with Resistor from Celestial Library Database.DbLib
+Replace Symbol from R28 Resistor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\BatteryMonitor.SchDoc with Resistor from Celestial Library Database.DbLib
+Replace Symbol from R29 Resistor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\BatteryMonitor.SchDoc with Resistor from Celestial Library Database.DbLib
+Replace Symbol from R30 Resistor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\BatteryMonitor.SchDoc with Resistor from Celestial Library Database.DbLib
+Replace Symbol from R40 Resistor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\BatteryMonitor.SchDoc with Resistor from Celestial Library Database.DbLib
+Replace Symbol from R41 Resistor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\BatteryMonitor.SchDoc with Resistor from Celestial Library Database.DbLib
+Replace Symbol from R42 Resistor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\BatteryMonitor.SchDoc with Resistor from Celestial Library Database.DbLib
+Replace Symbol from R43 Resistor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\BatteryMonitor.SchDoc with Resistor from Celestial Library Database.DbLib
+Replace Symbol from R44 Resistor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\BatteryMonitor.SchDoc with Resistor from Celestial Library Database.DbLib
+Replace Symbol from R45 Resistor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\BatteryMonitor.SchDoc with Resistor from Celestial Library Database.DbLib

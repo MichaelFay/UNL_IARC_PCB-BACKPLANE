@@ -1,0 +1,13 @@
+Change Component Parameter Comment in D1 Old= New=="Part Number"
+Change Component Parameter Comment in R1 Old= New==Value
+Change Component Parameter Comment in R2 Old= New==Value
+Change Component Parameter Comment in R3 Old= New==Value
+Replace Symbol from D1 Diode Zener in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\KillSwitch.SchDoc with Diode Zener from Celestial Library Database.DbLib
+Replace Symbol from R1 Resistor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\KillSwitch.SchDoc with Resistor from Celestial Library Database.DbLib
+Replace Symbol from R2 Resistor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\KillSwitch.SchDoc with Resistor from Celestial Library Database.DbLib
+Replace Symbol from R3 Resistor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\KillSwitch.SchDoc with Resistor from Celestial Library Database.DbLib
+Replace Symbol from T1 BSS215P H6327 in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\KillSwitch.SchDoc with BSS215P H6327 from Infineon_Power_MOSFET.IntLib
+Replace Symbol from T2 IPP120P04P4L-03 in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\KillSwitch.SchDoc with IPP120P04P4L-03 from Infineon_Power_MOSFET.IntLib
+Replace Symbol from T3 IPP120P04P4L-03 in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\KillSwitch.SchDoc with IPP120P04P4L-03 from Infineon_Power_MOSFET.IntLib
+Replace Symbol from T4 IPP120P04P4L-03 in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\KillSwitch.SchDoc with IPP120P04P4L-03 from Infineon_Power_MOSFET.IntLib
+Replace Symbol from T5 IPP120P04P4L-03 in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\KillSwitch.SchDoc with IPP120P04P4L-03 from Infineon_Power_MOSFET.IntLib

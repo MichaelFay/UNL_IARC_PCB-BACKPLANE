@@ -1,0 +1,105 @@
+Removed Parameter Bidirectional Channels: from Part D4
+Removed Parameter Capacitance @ Frequency: from Part D4
+Removed Parameter ComponentLink3Description: from Part C1
+Removed Parameter ComponentLink3Description: from Part C2
+Removed Parameter ComponentLink3Description: from Part C4
+Removed Parameter ComponentLink3Description: from Part D2
+Removed Parameter ComponentLink3Description: from Part D3
+Removed Parameter ComponentLink3Description: from Part D4
+Removed Parameter ComponentLink3Description: from Part F1
+Removed Parameter ComponentLink3Description: from Part 
+Removed Parameter ComponentLink3Description: from Part R4
+Removed Parameter ComponentLink3Description: from Part R5
+Removed Parameter ComponentLink3Description: from Part R6
+Removed Parameter ComponentLink3Description: from Part R7
+Removed Parameter ComponentLink3Description: from Part R8
+Removed Parameter ComponentLink3Description: from Part R9
+Removed Parameter ComponentLink3Description: from Part Reset
+Removed Parameter ComponentLink3URL: from Part C1
+Removed Parameter ComponentLink3URL: from Part C2
+Removed Parameter ComponentLink3URL: from Part C4
+Removed Parameter ComponentLink3URL: from Part D2
+Removed Parameter ComponentLink3URL: from Part D3
+Removed Parameter ComponentLink3URL: from Part D4
+Removed Parameter ComponentLink3URL: from Part F1
+Removed Parameter ComponentLink3URL: from Part 
+Removed Parameter ComponentLink3URL: from Part R4
+Removed Parameter ComponentLink3URL: from Part R5
+Removed Parameter ComponentLink3URL: from Part R6
+Removed Parameter ComponentLink3URL: from Part R7
+Removed Parameter ComponentLink3URL: from Part R8
+Removed Parameter ComponentLink3URL: from Part R9
+Removed Parameter ComponentLink3URL: from Part Reset
+Removed Parameter Device Package: from Part Reset
+Removed Parameter Dielectric: from Part C1
+Removed Parameter Dielectric: from Part C2
+Removed Parameter Dielectric: from Part C4
+Removed Parameter Outline: from Part Reset
+Removed Parameter Series: from Part Reset
+Removed Parameter Supplier 2: from Part C1
+Removed Parameter Supplier 2: from Part C2
+Removed Parameter Supplier 2: from Part C4
+Removed Parameter Supplier 2: from Part D2
+Removed Parameter Supplier 2: from Part D3
+Removed Parameter Supplier 2: from Part D4
+Removed Parameter Supplier 2: from Part F1
+Removed Parameter Supplier 2: from Part 
+Removed Parameter Supplier 2: from Part R4
+Removed Parameter Supplier 2: from Part R5
+Removed Parameter Supplier 2: from Part R6
+Removed Parameter Supplier 2: from Part R7
+Removed Parameter Supplier 2: from Part R8
+Removed Parameter Supplier 2: from Part R9
+Removed Parameter Supplier 2: from Part Reset
+Removed Parameter Supplier Part Number 2: from Part C1
+Removed Parameter Supplier Part Number 2: from Part C2
+Removed Parameter Supplier Part Number 2: from Part C4
+Removed Parameter Supplier Part Number 2: from Part D2
+Removed Parameter Supplier Part Number 2: from Part D3
+Removed Parameter Supplier Part Number 2: from Part D4
+Removed Parameter Supplier Part Number 2: from Part F1
+Removed Parameter Supplier Part Number 2: from Part 
+Removed Parameter Supplier Part Number 2: from Part R4
+Removed Parameter Supplier Part Number 2: from Part R5
+Removed Parameter Supplier Part Number 2: from Part R6
+Removed Parameter Supplier Part Number 2: from Part R7
+Removed Parameter Supplier Part Number 2: from Part R8
+Removed Parameter Supplier Part Number 2: from Part R9
+Removed Parameter Supplier Part Number 2: from Part Reset
+Removed Parameter TemperatureRange: from Part 
+Removed Parameter Tolerance: from Part 
+Removed Parameter Type: from Part F1
+Removed Parameter TYPE: from Part Reset
+Removed Parameter Unidirectional Channels: from Part D4
+Removed Parameter Value: from Part Reset
+Removed Parameter Voltage: from Part 
+Change Component Parameter Comment in C1 Old= New==Value
+Change Component Parameter Comment in C2 Old= New==Value
+Change Component Parameter Comment in C4 Old= New==Value
+Change Component Parameter Comment in D2 Old= New==Colour
+Change Component Parameter Comment in D3 Old= New==Colour
+Change Component Parameter Comment in D4 Old= New=="Part Number"
+Change Component Parameter Comment in F1 Old= New=="Value"
+Change Component Parameter Comment in R4 Old= New==Value
+Change Component Parameter Comment in R5 Old= New==Value
+Change Component Parameter Comment in R6 Old= New==Value
+Change Component Parameter Comment in R7 Old= New==Value
+Change Component Parameter Comment in R8 Old= New==Value
+Change Component Parameter Comment in R9 Old= New==Value
+Change Component Parameter Comment in Reset Old= New=="Part Number"
+Replace Symbol from  USB 2.0 Type B Micro in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\FT232RL_Programmer.SchDoc with USB 2.0 Type B Micro from Celestial Library Database.DbLib
+Replace Symbol from C1 Capacitor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\FT232RL_Programmer.SchDoc with Capacitor from Celestial Library Database.DbLib
+Replace Symbol from C2 Capacitor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\FT232RL_Programmer.SchDoc with Capacitor from Celestial Library Database.DbLib
+Replace Symbol from C4 Capacitor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\FT232RL_Programmer.SchDoc with Capacitor from Celestial Library Database.DbLib
+Replace Symbol from D2 LED in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\FT232RL_Programmer.SchDoc with LED from Celestial Library Database.DbLib
+Replace Symbol from D3 LED in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\FT232RL_Programmer.SchDoc with LED from Celestial Library Database.DbLib
+Replace Symbol from D4 Diode in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\FT232RL_Programmer.SchDoc with Diode from Celestial Library Database.DbLib
+Replace Symbol from F1 Ferrite Chip in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\FT232RL_Programmer.SchDoc with Ferrite Chip from Celestial Library Database.DbLib
+Replace Symbol from FT232RL FT232RL-BASICSSOP in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\FT232RL_Programmer.SchDoc with FT232RL-BASICSSOP from SparkFun-IC-Comms.IntLib
+Replace Symbol from R4 Resistor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\FT232RL_Programmer.SchDoc with Resistor from Celestial Library Database.DbLib
+Replace Symbol from R5 Resistor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\FT232RL_Programmer.SchDoc with Resistor from Celestial Library Database.DbLib
+Replace Symbol from R6 Resistor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\FT232RL_Programmer.SchDoc with Resistor from Celestial Library Database.DbLib
+Replace Symbol from R7 Resistor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\FT232RL_Programmer.SchDoc with Resistor from Celestial Library Database.DbLib
+Replace Symbol from R8 Resistor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\FT232RL_Programmer.SchDoc with Resistor from Celestial Library Database.DbLib
+Replace Symbol from R9 Resistor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\FT232RL_Programmer.SchDoc with Resistor from Celestial Library Database.DbLib
+Replace Symbol from Reset SPST-NO 4 PIN in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\FT232RL_Programmer.SchDoc with SPST-NO 4 PIN from Celestial Library Database.DbLib

@@ -1,0 +1,25 @@
+Change Component Parameter Comment in C9 Old= New==Value
+Change Component Parameter Comment in C10 Old= New==Value
+Change Component Parameter Comment in C11 Old= New==Value
+Change Component Parameter Comment in C12 Old= New=="Value"
+Added Parameter ComponentLink3Description= to Part C9
+Added Parameter ComponentLink3Description= to Part C10
+Added Parameter ComponentLink3Description= to Part C11
+Added Parameter ComponentLink3Description= to Part C12
+Added Parameter ComponentLink3URL= to Part C9
+Added Parameter ComponentLink3URL= to Part C10
+Added Parameter ComponentLink3URL= to Part C11
+Added Parameter ComponentLink3URL= to Part C12
+Added Parameter Dielectric= to Part C9
+Added Parameter Dielectric= to Part C10
+Added Parameter Dielectric= to Part C11
+Added Parameter Dielectric= to Part C12
+Added Parameter Supplier 2= to Part C9
+Added Parameter Supplier 2= to Part C10
+Added Parameter Supplier 2= to Part C11
+Added Parameter Supplier 2= to Part C12
+Added Parameter Supplier Part Number 2= to Part C9
+Added Parameter Supplier Part Number 2= to Part C10
+Added Parameter Supplier Part Number 2= to Part C11
+Added Parameter Supplier Part Number 2= to Part C12
+Added Parameter Type= to Part C12

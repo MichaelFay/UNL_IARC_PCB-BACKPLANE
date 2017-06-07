@@ -1,0 +1,89 @@
+Change Component Parameter Comment in C1 Old= New==Value
+Change Component Parameter Comment in C2 Old= New==Value
+Change Component Parameter Comment in C4 Old= New==Value
+Change Component Parameter Comment in D2 Old= New==Colour
+Change Component Parameter Comment in D3 Old= New==Colour
+Change Component Parameter Comment in D4 Old= New=="Part Number"
+Change Component Parameter Comment in F1 Old= New=="Value"
+Change Component Parameter Comment in R4 Old= New==Value
+Change Component Parameter Comment in R5 Old= New==Value
+Change Component Parameter Comment in R6 Old= New==Value
+Change Component Parameter Comment in R7 Old= New==Value
+Change Component Parameter Comment in R8 Old= New==Value
+Change Component Parameter Comment in R9 Old= New==Value
+Change Component Parameter Comment in Reset Old= New=="Part Number"
+Added Parameter Bidirectional Channels= to Part D4
+Added Parameter Capacitance @ Frequency= to Part D4
+Added Parameter ComponentLink3Description= to Part C1
+Added Parameter ComponentLink3Description= to Part C2
+Added Parameter ComponentLink3Description= to Part C4
+Added Parameter ComponentLink3Description= to Part D2
+Added Parameter ComponentLink3Description= to Part D3
+Added Parameter ComponentLink3Description= to Part D4
+Added Parameter ComponentLink3Description= to Part F1
+Added Parameter ComponentLink3Description= to Part 
+Added Parameter ComponentLink3Description= to Part R4
+Added Parameter ComponentLink3Description= to Part R5
+Added Parameter ComponentLink3Description= to Part R6
+Added Parameter ComponentLink3Description= to Part R7
+Added Parameter ComponentLink3Description= to Part R8
+Added Parameter ComponentLink3Description= to Part R9
+Added Parameter ComponentLink3Description= to Part Reset
+Added Parameter ComponentLink3URL= to Part C1
+Added Parameter ComponentLink3URL= to Part C2
+Added Parameter ComponentLink3URL= to Part C4
+Added Parameter ComponentLink3URL= to Part D2
+Added Parameter ComponentLink3URL= to Part D3
+Added Parameter ComponentLink3URL= to Part D4
+Added Parameter ComponentLink3URL= to Part F1
+Added Parameter ComponentLink3URL= to Part 
+Added Parameter ComponentLink3URL= to Part R4
+Added Parameter ComponentLink3URL= to Part R5
+Added Parameter ComponentLink3URL= to Part R6
+Added Parameter ComponentLink3URL= to Part R7
+Added Parameter ComponentLink3URL= to Part R8
+Added Parameter ComponentLink3URL= to Part R9
+Added Parameter ComponentLink3URL= to Part Reset
+Added Parameter Device Package= to Part Reset
+Added Parameter Dielectric= to Part C1
+Added Parameter Dielectric= to Part C2
+Added Parameter Dielectric= to Part C4
+Added Parameter Outline= to Part Reset
+Added Parameter Series= to Part Reset
+Added Parameter Supplier 2= to Part C1
+Added Parameter Supplier 2= to Part C2
+Added Parameter Supplier 2= to Part C4
+Added Parameter Supplier 2= to Part D2
+Added Parameter Supplier 2= to Part D3
+Added Parameter Supplier 2= to Part D4
+Added Parameter Supplier 2= to Part F1
+Added Parameter Supplier 2= to Part 
+Added Parameter Supplier 2= to Part R4
+Added Parameter Supplier 2= to Part R5
+Added Parameter Supplier 2= to Part R6
+Added Parameter Supplier 2= to Part R7
+Added Parameter Supplier 2= to Part R8
+Added Parameter Supplier 2= to Part R9
+Added Parameter Supplier 2= to Part Reset
+Added Parameter Supplier Part Number 2= to Part C1
+Added Parameter Supplier Part Number 2= to Part C2
+Added Parameter Supplier Part Number 2= to Part C4
+Added Parameter Supplier Part Number 2= to Part D2
+Added Parameter Supplier Part Number 2= to Part D3
+Added Parameter Supplier Part Number 2= to Part D4
+Added Parameter Supplier Part Number 2= to Part F1
+Added Parameter Supplier Part Number 2= to Part 
+Added Parameter Supplier Part Number 2= to Part R4
+Added Parameter Supplier Part Number 2= to Part R5
+Added Parameter Supplier Part Number 2= to Part R6
+Added Parameter Supplier Part Number 2= to Part R7
+Added Parameter Supplier Part Number 2= to Part R8
+Added Parameter Supplier Part Number 2= to Part R9
+Added Parameter Supplier Part Number 2= to Part Reset
+Added Parameter TemperatureRange= to Part 
+Added Parameter Tolerance= to Part 
+Added Parameter Type= to Part F1
+Added Parameter TYPE= to Part Reset
+Added Parameter Unidirectional Channels= to Part D4
+Added Parameter Value= to Part Reset
+Added Parameter Voltage= to Part 

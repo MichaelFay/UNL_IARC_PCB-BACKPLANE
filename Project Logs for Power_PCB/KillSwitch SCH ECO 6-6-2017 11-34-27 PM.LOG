@@ -1,0 +1,31 @@
+Change Component Parameter Comment in D1 Old= New=="Part Number"
+Change Component Parameter Comment in R1 Old= New==Value
+Change Component Parameter Comment in R2 Old= New==Value
+Change Component Parameter Comment in R3 Old= New==Value
+Added Parameter Bidirectional Channels= to Part D1
+Added Parameter Capacitance @ Frequency= to Part D1
+Added Parameter ComponentLink3Description= to Part D1
+Added Parameter ComponentLink3Description= to Part R1
+Added Parameter ComponentLink3Description= to Part R2
+Added Parameter ComponentLink3Description= to Part R3
+Added Parameter ComponentLink3URL= to Part D1
+Added Parameter ComponentLink3URL= to Part R1
+Added Parameter ComponentLink3URL= to Part R2
+Added Parameter ComponentLink3URL= to Part R3
+Added Parameter Supplier 2= to Part D1
+Added Parameter Supplier 2= to Part R1
+Added Parameter Supplier 2= to Part R2
+Added Parameter Supplier 2= to Part R3
+Added Parameter Supplier Part Number 2= to Part D1
+Added Parameter Supplier Part Number 2= to Part R1
+Added Parameter Supplier Part Number 2= to Part R2
+Added Parameter Supplier Part Number 2= to Part R3
+Added Parameter TemperatureCoefficient= to Part R1
+Added Parameter TemperatureCoefficient= to Part R2
+Added Parameter TemperatureCoefficient= to Part R3
+Added Parameter TemperatureRange= to Part R1
+Added Parameter TemperatureRange= to Part R2
+Added Parameter TemperatureRange= to Part R3
+Added Parameter Type= to Part R1
+Added Parameter Type= to Part R2
+Added Parameter Type= to Part R3

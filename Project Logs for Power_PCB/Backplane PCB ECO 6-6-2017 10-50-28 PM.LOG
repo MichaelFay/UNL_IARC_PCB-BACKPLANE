@@ -1,0 +1,23 @@
+Change Component Comment : Designator=R4 Old Comment=1K New Comment=10k
+Change Component Comment : Designator=R5 Old Comment=1K New Comment=10k
+Change Component Comment : Designator=R6 Old Comment=1k New Comment=10k
+Change Component Comment : Designator=R7 Old Comment=1k New Comment=10k
+Change Component Comment : Designator=R8 Old Comment=1k New Comment=10k
+Change Component Comment : Designator=R2 Old Comment=10K New Comment=0.0
+Change Component Comment : Designator=R3 Old Comment=10K New Comment=0.0
+Change Component Comment : Designator=C9 Old Comment=10uF New Comment=0.1uF
+Change Component Comment : Designator=C10 Old Comment=10uF New Comment=0.1uF
+Change Component Comment : Designator=C11 Old Comment=10uF New Comment=0.1uF
+Change Component Comment : Designator=OS1 Old Comment=16MHz New Comment=10MHz
+Change Component Comment : Designator=C6 Old Comment=22pF New Comment=0.1uF
+Change Component Comment : Designator=C7 Old Comment=22pF New Comment=0.1uF
+Change Component Comment : Designator=R1 Old Comment=100k New Comment=0.0
+Change Component Comment : Designator=C4 Old Comment=100nF New Comment=0.1uF
+Change Component Comment : Designator=C8 Old Comment=100uF New Comment=33uF
+Change Component Comment : Designator=F1 Old Comment=500mA New Comment=120 Ohm @ 100MHz
+Change Component Comment : Designator=CONN1 Old Comment=Fan New Comment=282834-3
+Change Component Comment : Designator=FT232RL Old Comment=FT232RL USB UART New Comment=FT232RL USB UART    This is the simplified version of the FT232RL unit. Only what you need, nothing you don't.   FT232RL 4th Generation USB UART (USB <-> Serial) Controller.   Datasheet SparkFun Products  Component (COM-00650)  SparkFun RedBot Mainboard (ROB-12097)  SparkFun FTDI Basic Breakout - 5V (DEV-09716)  SparkFun FTDI Basic Breakout - 3.3V (DEV-09873)  Bus Pirate - v3.6a (TOL-12942)  SparkFun USB to Serial Breakout - FT232RL (BOB-12731)  SparkFun PicoBoard (WIG-11888)  SparkFun RFID USB Reader (SEN-09963)  LilyPad FTDI Basic Breakout - 5V (DEV-10275)  SparkFun Stepoko (ROB-13899)
+Change Component Comment : Designator=BATTERY_FUSE Old Comment=FUSE New Comment=Resettable Fuse PPTC    Resettable Fuse. Really a sort of resistor with a polymeric positive temperature coefficient whose resistance increases dramatically with an increase in temperature. When heated by the power passing through the resistance rises causing the current to be limited, protecting the circuit. This is achieved by the transition of the polymer from a crystalline to an amorphous state where the conductive carbon separates breaking the conductive pathways found in the cool crystalline structure. When a PPTC cools back down it resumes conducting letting the circuit turn back on.   SparkFun Products:  SparkFun RedBoard - Programmed with Arduino  Pro Micro - 5V/16MHz  Arduino Pro 328 - 5V/16MHz  MP3 Trigger
+Change Component Comment : Designator=Flight Old Comment=PCI-E x16 New Comment=Copy from  con-pci_express(pci-e).lbr uploaded Mon Jul 2 10:15:25 2007   Library for PCI-Express x16 (PCI-E) connector. Includes connector and card edge pattern. Uploaded by JF Duval <jfduval@aqra.ca> from AQRA.ca
+Change Component Comment : Designator=Jetson Old Comment=PCI-E x16 New Comment=Copy from  con-pci_express(pci-e).lbr uploaded Mon Jul 2 10:15:25 2007   Library for PCI-Express x16 (PCI-E) connector. Includes connector and card edge pattern. Uploaded by JF Duval <jfduval@aqra.ca> from AQRA.ca
+Change Component Comment : Designator=D2 Old Comment=RED New Comment=Green

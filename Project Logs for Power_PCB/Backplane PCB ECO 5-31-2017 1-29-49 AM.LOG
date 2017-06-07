@@ -1,0 +1,515 @@
+Added Component: Designator=Battery(PCI-E-164)
+Added Component: Designator=Flight(PCI-E-164)
+Added Component: Designator=Jetson(PCI-E-164)
+Added Pin To Net: NetName=3.3V Pin=Battery-A16
+Added Pin To Net: NetName=3.3V Pin=Battery-A41
+Added Pin To Net: NetName=3.3V Pin=Battery-B16
+Added Pin To Net: NetName=3.3V Pin=Flight-A16
+Added Pin To Net: NetName=3.3V Pin=Flight-A41
+Added Pin To Net: NetName=3.3V Pin=Flight-B16
+Added Pin To Net: NetName=3.3V Pin=Jetson-A16
+Added Pin To Net: NetName=3.3V Pin=Jetson-A41
+Added Pin To Net: NetName=3.3V Pin=Jetson-B16
+Added Net: Name=3.3V
+Added Pin To Net: NetName=5V Pin=Battery-A8
+Added Pin To Net: NetName=5V Pin=Battery-A47
+Added Pin To Net: NetName=5V Pin=Battery-B8
+Added Pin To Net: NetName=5V Pin=Battery-B26
+Added Pin To Net: NetName=5V Pin=Battery-B40
+Added Pin To Net: NetName=5V Pin=Flight-A8
+Added Pin To Net: NetName=5V Pin=Flight-A47
+Added Pin To Net: NetName=5V Pin=Flight-B8
+Added Pin To Net: NetName=5V Pin=Flight-B26
+Added Pin To Net: NetName=5V Pin=Flight-B40
+Added Pin To Net: NetName=5V Pin=Jetson-A8
+Added Pin To Net: NetName=5V Pin=Jetson-A47
+Added Pin To Net: NetName=5V Pin=Jetson-B8
+Added Pin To Net: NetName=5V Pin=Jetson-B26
+Added Pin To Net: NetName=5V Pin=Jetson-B40
+Added Net: Name=5V
+Added Pin To Net: NetName=12V Pin=Battery-A3
+Added Pin To Net: NetName=12V Pin=Battery-A11
+Added Pin To Net: NetName=12V Pin=Battery-A19
+Added Pin To Net: NetName=12V Pin=Battery-A31
+Added Pin To Net: NetName=12V Pin=Battery-A44
+Added Pin To Net: NetName=12V Pin=Battery-B3
+Added Pin To Net: NetName=12V Pin=Battery-B11
+Added Pin To Net: NetName=12V Pin=Battery-B19
+Added Pin To Net: NetName=12V Pin=Battery-B32
+Added Pin To Net: NetName=12V Pin=Flight-A3
+Added Pin To Net: NetName=12V Pin=Flight-A11
+Added Pin To Net: NetName=12V Pin=Flight-A19
+Added Pin To Net: NetName=12V Pin=Flight-A31
+Added Pin To Net: NetName=12V Pin=Flight-A44
+Added Pin To Net: NetName=12V Pin=Flight-B3
+Added Pin To Net: NetName=12V Pin=Flight-B11
+Added Pin To Net: NetName=12V Pin=Flight-B19
+Added Pin To Net: NetName=12V Pin=Flight-B32
+Added Pin To Net: NetName=12V Pin=Jetson-A3
+Added Pin To Net: NetName=12V Pin=Jetson-A11
+Added Pin To Net: NetName=12V Pin=Jetson-A19
+Added Pin To Net: NetName=12V Pin=Jetson-A31
+Added Pin To Net: NetName=12V Pin=Jetson-A44
+Added Pin To Net: NetName=12V Pin=Jetson-B3
+Added Pin To Net: NetName=12V Pin=Jetson-B11
+Added Pin To Net: NetName=12V Pin=Jetson-B19
+Added Pin To Net: NetName=12V Pin=Jetson-B32
+Added Net: Name=12V
+Added Pin To Net: NetName=KILL Pin=Battery-A4
+Added Pin To Net: NetName=KILL Pin=Battery-B4
+Added Pin To Net: NetName=KILL Pin=Flight-A4
+Added Pin To Net: NetName=KILL Pin=Flight-B4
+Added Pin To Net: NetName=KILL Pin=Jetson-A4
+Added Pin To Net: NetName=KILL Pin=Jetson-B4
+Added Net: Name=KILL
+Added Pin To Net: NetName=LVDS_1H Pin=Battery-B46
+Added Pin To Net: NetName=LVDS_1H Pin=Flight-B46
+Added Pin To Net: NetName=LVDS_1H Pin=Jetson-B46
+Added Net: Name=LVDS_1H
+Added Pin To Net: NetName=LVDS_1L Pin=Battery-A45
+Added Pin To Net: NetName=LVDS_1L Pin=Flight-A45
+Added Pin To Net: NetName=LVDS_1L Pin=Jetson-A45
+Added Net: Name=LVDS_1L
+Added Pin To Net: NetName=LVDS_2H Pin=Battery-B47
+Added Pin To Net: NetName=LVDS_2H Pin=Flight-B47
+Added Pin To Net: NetName=LVDS_2H Pin=Jetson-B47
+Added Net: Name=LVDS_2H
+Added Pin To Net: NetName=LVDS_2L Pin=Battery-A46
+Added Pin To Net: NetName=LVDS_2L Pin=Flight-A46
+Added Pin To Net: NetName=LVDS_2L Pin=Jetson-A46
+Added Net: Name=LVDS_2L
+Added Pin To Net: NetName=LVDS_3L Pin=Battery-A38
+Added Pin To Net: NetName=LVDS_3L Pin=Battery-B39
+Added Pin To Net: NetName=LVDS_3L Pin=Flight-A38
+Added Pin To Net: NetName=LVDS_3L Pin=Flight-B39
+Added Pin To Net: NetName=LVDS_3L Pin=Jetson-A38
+Added Pin To Net: NetName=LVDS_3L Pin=Jetson-B39
+Added Net: Name=LVDS_3L
+Added Pin To Net: NetName=LVDS_4L Pin=Battery-A32
+Added Pin To Net: NetName=LVDS_4L Pin=Battery-B33
+Added Pin To Net: NetName=LVDS_4L Pin=Flight-A32
+Added Pin To Net: NetName=LVDS_4L Pin=Flight-B33
+Added Pin To Net: NetName=LVDS_4L Pin=Jetson-A32
+Added Pin To Net: NetName=LVDS_4L Pin=Jetson-B33
+Added Net: Name=LVDS_4L
+Added Pin To Net: NetName=LVDS_5L Pin=Battery-A27
+Added Pin To Net: NetName=LVDS_5L Pin=Battery-B28
+Added Pin To Net: NetName=LVDS_5L Pin=Flight-A27
+Added Pin To Net: NetName=LVDS_5L Pin=Flight-B28
+Added Pin To Net: NetName=LVDS_5L Pin=Jetson-A27
+Added Pin To Net: NetName=LVDS_5L Pin=Jetson-B28
+Added Net: Name=LVDS_5L
+Added Pin To Net: NetName=LVDS_6L Pin=Battery-A25
+Added Pin To Net: NetName=LVDS_6L Pin=Battery-B25
+Added Pin To Net: NetName=LVDS_6L Pin=Flight-A25
+Added Pin To Net: NetName=LVDS_6L Pin=Flight-B25
+Added Pin To Net: NetName=LVDS_6L Pin=Jetson-A25
+Added Pin To Net: NetName=LVDS_6L Pin=Jetson-B25
+Added Net: Name=LVDS_6L
+Added Pin To Net: NetName=LVDS_7L Pin=Battery-A15
+Added Pin To Net: NetName=LVDS_7L Pin=Battery-B15
+Added Pin To Net: NetName=LVDS_7L Pin=Flight-A15
+Added Pin To Net: NetName=LVDS_7L Pin=Flight-B15
+Added Pin To Net: NetName=LVDS_7L Pin=Jetson-A15
+Added Pin To Net: NetName=LVDS_7L Pin=Jetson-B15
+Added Net: Name=LVDS_7L
+Added Pin To Net: NetName=LVDS_8L Pin=Battery-A14
+Added Pin To Net: NetName=LVDS_8L Pin=Battery-B14
+Added Pin To Net: NetName=LVDS_8L Pin=Flight-A14
+Added Pin To Net: NetName=LVDS_8L Pin=Flight-B14
+Added Pin To Net: NetName=LVDS_8L Pin=Jetson-A14
+Added Pin To Net: NetName=LVDS_8L Pin=Jetson-B14
+Added Net: Name=LVDS_8L
+Added Pin To Net: NetName=MISO_1 Pin=Battery-A7
+Added Pin To Net: NetName=MISO_1 Pin=Battery-B7
+Added Pin To Net: NetName=MISO_1 Pin=Flight-A7
+Added Pin To Net: NetName=MISO_1 Pin=Flight-B7
+Added Pin To Net: NetName=MISO_1 Pin=Jetson-A7
+Added Pin To Net: NetName=MISO_1 Pin=Jetson-B7
+Added Net: Name=MISO_1
+Added Pin To Net: NetName=MISO_2 Pin=Battery-A10
+Added Pin To Net: NetName=MISO_2 Pin=Battery-B10
+Added Pin To Net: NetName=MISO_2 Pin=Flight-A10
+Added Pin To Net: NetName=MISO_2 Pin=Flight-B10
+Added Pin To Net: NetName=MISO_2 Pin=Jetson-A10
+Added Pin To Net: NetName=MISO_2 Pin=Jetson-B10
+Added Net: Name=MISO_2
+Added Pin To Net: NetName=MISO_3 Pin=Battery-A12
+Added Pin To Net: NetName=MISO_3 Pin=Battery-B12
+Added Pin To Net: NetName=MISO_3 Pin=Flight-A12
+Added Pin To Net: NetName=MISO_3 Pin=Flight-B12
+Added Pin To Net: NetName=MISO_3 Pin=Jetson-A12
+Added Pin To Net: NetName=MISO_3 Pin=Jetson-B12
+Added Net: Name=MISO_3
+Added Pin To Net: NetName=MISO_4 Pin=Battery-A20
+Added Pin To Net: NetName=MISO_4 Pin=Battery-B20
+Added Pin To Net: NetName=MISO_4 Pin=Flight-A20
+Added Pin To Net: NetName=MISO_4 Pin=Flight-B20
+Added Pin To Net: NetName=MISO_4 Pin=Jetson-A20
+Added Pin To Net: NetName=MISO_4 Pin=Jetson-B20
+Added Net: Name=MISO_4
+Added Pin To Net: NetName=MOTOR_BL_PWM Pin=Battery-A39
+Added Pin To Net: NetName=MOTOR_BL_PWM Pin=Flight-A39
+Added Pin To Net: NetName=MOTOR_BL_PWM Pin=Jetson-A39
+Added Net: Name=MOTOR_BL_PWM
+Added Pin To Net: NetName=MOTOR_BR_PWM Pin=Jetson-B41
+Added Net: Name=MOTOR_BR_PWM
+Added Pin To Net: NetName=MOTOR_FL_PWM Pin=Battery-B42
+Added Pin To Net: NetName=MOTOR_FL_PWM Pin=Flight-B42
+Added Pin To Net: NetName=MOTOR_FL_PWM Pin=Jetson-B42
+Added Net: Name=MOTOR_FL_PWM
+Added Pin To Net: NetName=MOTOR_FR_PWM Pin=Battery-B44
+Added Pin To Net: NetName=MOTOR_FR_PWM Pin=Flight-B44
+Added Pin To Net: NetName=MOTOR_FR_PWM Pin=Jetson-B44
+Added Net: Name=MOTOR_FR_PWM
+Added Pin To Net: NetName=NETLABEL279 Pin=Battery-A82
+Added Pin To Net: NetName=NETLABEL279 Pin=Flight-A82
+Added Pin To Net: NetName=NETLABEL279 Pin=Jetson-A82
+Added Net: Name=NETLABEL279
+Added Pin To Net: NetName=NETLABEL280 Pin=Battery-A81
+Added Pin To Net: NetName=NETLABEL280 Pin=Flight-A81
+Added Pin To Net: NetName=NETLABEL280 Pin=Jetson-A81
+Added Net: Name=NETLABEL280
+Added Pin To Net: NetName=NETLABEL281 Pin=Battery-A80
+Added Pin To Net: NetName=NETLABEL281 Pin=Flight-A80
+Added Pin To Net: NetName=NETLABEL281 Pin=Jetson-A80
+Added Net: Name=NETLABEL281
+Added Pin To Net: NetName=NETLABEL282 Pin=Battery-A79
+Added Pin To Net: NetName=NETLABEL282 Pin=Flight-A79
+Added Pin To Net: NetName=NETLABEL282 Pin=Jetson-A79
+Added Net: Name=NETLABEL282
+Added Pin To Net: NetName=NETLABEL283 Pin=Battery-A78
+Added Pin To Net: NetName=NETLABEL283 Pin=Flight-A78
+Added Pin To Net: NetName=NETLABEL283 Pin=Jetson-A78
+Added Net: Name=NETLABEL283
+Added Pin To Net: NetName=NETLABEL284 Pin=Battery-A77
+Added Pin To Net: NetName=NETLABEL284 Pin=Flight-A77
+Added Pin To Net: NetName=NETLABEL284 Pin=Jetson-A77
+Added Net: Name=NETLABEL284
+Added Pin To Net: NetName=NETLABEL285 Pin=Battery-A76
+Added Pin To Net: NetName=NETLABEL285 Pin=Flight-A76
+Added Pin To Net: NetName=NETLABEL285 Pin=Jetson-A76
+Added Net: Name=NETLABEL285
+Added Pin To Net: NetName=NETLABEL286 Pin=Battery-A75
+Added Pin To Net: NetName=NETLABEL286 Pin=Flight-A75
+Added Pin To Net: NetName=NETLABEL286 Pin=Jetson-A75
+Added Net: Name=NETLABEL286
+Added Pin To Net: NetName=NETLABEL287 Pin=Battery-A74
+Added Pin To Net: NetName=NETLABEL287 Pin=Flight-A74
+Added Pin To Net: NetName=NETLABEL287 Pin=Jetson-A74
+Added Net: Name=NETLABEL287
+Added Pin To Net: NetName=NETLABEL288 Pin=Battery-A73
+Added Pin To Net: NetName=NETLABEL288 Pin=Flight-A73
+Added Pin To Net: NetName=NETLABEL288 Pin=Jetson-A73
+Added Net: Name=NETLABEL288
+Added Pin To Net: NetName=NETLABEL289 Pin=Battery-A72
+Added Pin To Net: NetName=NETLABEL289 Pin=Flight-A72
+Added Pin To Net: NetName=NETLABEL289 Pin=Jetson-A72
+Added Net: Name=NETLABEL289
+Added Pin To Net: NetName=NETLABEL290 Pin=Battery-A70
+Added Pin To Net: NetName=NETLABEL290 Pin=Flight-A70
+Added Pin To Net: NetName=NETLABEL290 Pin=Jetson-A70
+Added Net: Name=NETLABEL290
+Added Pin To Net: NetName=NETLABEL291 Pin=Battery-A69
+Added Pin To Net: NetName=NETLABEL291 Pin=Flight-A69
+Added Pin To Net: NetName=NETLABEL291 Pin=Jetson-A69
+Added Net: Name=NETLABEL291
+Added Pin To Net: NetName=NETLABEL292 Pin=Battery-A68
+Added Pin To Net: NetName=NETLABEL292 Pin=Flight-A68
+Added Pin To Net: NetName=NETLABEL292 Pin=Jetson-A68
+Added Net: Name=NETLABEL292
+Added Pin To Net: NetName=NETLABEL293 Pin=Battery-A67
+Added Pin To Net: NetName=NETLABEL293 Pin=Battery-B49
+Added Pin To Net: NetName=NETLABEL293 Pin=Flight-A67
+Added Pin To Net: NetName=NETLABEL293 Pin=Flight-B49
+Added Pin To Net: NetName=NETLABEL293 Pin=Jetson-A67
+Added Pin To Net: NetName=NETLABEL293 Pin=Jetson-B49
+Added Net: Name=NETLABEL293
+Added Pin To Net: NetName=NETLABEL294 Pin=Battery-A66
+Added Pin To Net: NetName=NETLABEL294 Pin=Battery-B50
+Added Pin To Net: NetName=NETLABEL294 Pin=Flight-A66
+Added Pin To Net: NetName=NETLABEL294 Pin=Flight-B50
+Added Pin To Net: NetName=NETLABEL294 Pin=Jetson-A66
+Added Pin To Net: NetName=NETLABEL294 Pin=Jetson-B50
+Added Net: Name=NETLABEL294
+Added Pin To Net: NetName=NETLABEL295 Pin=Battery-A65
+Added Pin To Net: NetName=NETLABEL295 Pin=Battery-B51
+Added Pin To Net: NetName=NETLABEL295 Pin=Flight-A65
+Added Pin To Net: NetName=NETLABEL295 Pin=Flight-B51
+Added Pin To Net: NetName=NETLABEL295 Pin=Jetson-A65
+Added Pin To Net: NetName=NETLABEL295 Pin=Jetson-B51
+Added Net: Name=NETLABEL295
+Added Pin To Net: NetName=NETLABEL296 Pin=Battery-A64
+Added Pin To Net: NetName=NETLABEL296 Pin=Battery-B52
+Added Pin To Net: NetName=NETLABEL296 Pin=Flight-A64
+Added Pin To Net: NetName=NETLABEL296 Pin=Flight-B52
+Added Pin To Net: NetName=NETLABEL296 Pin=Jetson-A64
+Added Pin To Net: NetName=NETLABEL296 Pin=Jetson-B52
+Added Net: Name=NETLABEL296
+Added Pin To Net: NetName=NETLABEL297 Pin=Battery-A63
+Added Pin To Net: NetName=NETLABEL297 Pin=Battery-B53
+Added Pin To Net: NetName=NETLABEL297 Pin=Flight-A63
+Added Pin To Net: NetName=NETLABEL297 Pin=Flight-B53
+Added Pin To Net: NetName=NETLABEL297 Pin=Jetson-A63
+Added Pin To Net: NetName=NETLABEL297 Pin=Jetson-B53
+Added Net: Name=NETLABEL297
+Added Pin To Net: NetName=NETLABEL298 Pin=Battery-A62
+Added Pin To Net: NetName=NETLABEL298 Pin=Battery-B54
+Added Pin To Net: NetName=NETLABEL298 Pin=Flight-A62
+Added Pin To Net: NetName=NETLABEL298 Pin=Flight-B54
+Added Pin To Net: NetName=NETLABEL298 Pin=Jetson-A62
+Added Pin To Net: NetName=NETLABEL298 Pin=Jetson-B54
+Added Net: Name=NETLABEL298
+Added Pin To Net: NetName=NETLABEL299 Pin=Battery-A61
+Added Pin To Net: NetName=NETLABEL299 Pin=Battery-B55
+Added Pin To Net: NetName=NETLABEL299 Pin=Flight-A61
+Added Pin To Net: NetName=NETLABEL299 Pin=Flight-B55
+Added Pin To Net: NetName=NETLABEL299 Pin=Jetson-A61
+Added Pin To Net: NetName=NETLABEL299 Pin=Jetson-B55
+Added Net: Name=NETLABEL299
+Added Pin To Net: NetName=NETLABEL300 Pin=Battery-A53
+Added Pin To Net: NetName=NETLABEL300 Pin=Battery-A60
+Added Pin To Net: NetName=NETLABEL300 Pin=Battery-B56
+Added Pin To Net: NetName=NETLABEL300 Pin=Flight-A53
+Added Pin To Net: NetName=NETLABEL300 Pin=Flight-A60
+Added Pin To Net: NetName=NETLABEL300 Pin=Flight-B56
+Added Pin To Net: NetName=NETLABEL300 Pin=Jetson-A53
+Added Pin To Net: NetName=NETLABEL300 Pin=Jetson-A60
+Added Pin To Net: NetName=NETLABEL300 Pin=Jetson-B56
+Added Net: Name=NETLABEL300
+Added Pin To Net: NetName=NETLABEL301 Pin=Battery-A52
+Added Pin To Net: NetName=NETLABEL301 Pin=Battery-A59
+Added Pin To Net: NetName=NETLABEL301 Pin=Battery-B57
+Added Pin To Net: NetName=NETLABEL301 Pin=Flight-A52
+Added Pin To Net: NetName=NETLABEL301 Pin=Flight-A59
+Added Pin To Net: NetName=NETLABEL301 Pin=Flight-B57
+Added Pin To Net: NetName=NETLABEL301 Pin=Jetson-A52
+Added Pin To Net: NetName=NETLABEL301 Pin=Jetson-A59
+Added Pin To Net: NetName=NETLABEL301 Pin=Jetson-B57
+Added Net: Name=NETLABEL301
+Added Pin To Net: NetName=NETLABEL302 Pin=Battery-A51
+Added Pin To Net: NetName=NETLABEL302 Pin=Battery-A58
+Added Pin To Net: NetName=NETLABEL302 Pin=Battery-B58
+Added Pin To Net: NetName=NETLABEL302 Pin=Flight-A51
+Added Pin To Net: NetName=NETLABEL302 Pin=Flight-A58
+Added Pin To Net: NetName=NETLABEL302 Pin=Flight-B58
+Added Pin To Net: NetName=NETLABEL302 Pin=Jetson-A51
+Added Pin To Net: NetName=NETLABEL302 Pin=Jetson-A58
+Added Pin To Net: NetName=NETLABEL302 Pin=Jetson-B58
+Added Net: Name=NETLABEL302
+Added Pin To Net: NetName=NETLABEL303 Pin=Battery-A50
+Added Pin To Net: NetName=NETLABEL303 Pin=Battery-A57
+Added Pin To Net: NetName=NETLABEL303 Pin=Battery-B59
+Added Pin To Net: NetName=NETLABEL303 Pin=Flight-A50
+Added Pin To Net: NetName=NETLABEL303 Pin=Flight-A57
+Added Pin To Net: NetName=NETLABEL303 Pin=Flight-B59
+Added Pin To Net: NetName=NETLABEL303 Pin=Jetson-A50
+Added Pin To Net: NetName=NETLABEL303 Pin=Jetson-A57
+Added Pin To Net: NetName=NETLABEL303 Pin=Jetson-B59
+Added Net: Name=NETLABEL303
+Added Pin To Net: NetName=NETLABEL304 Pin=Battery-A49
+Added Pin To Net: NetName=NETLABEL304 Pin=Battery-A55
+Added Pin To Net: NetName=NETLABEL304 Pin=Battery-A56
+Added Pin To Net: NetName=NETLABEL304 Pin=Battery-B60
+Added Pin To Net: NetName=NETLABEL304 Pin=Flight-A49
+Added Pin To Net: NetName=NETLABEL304 Pin=Flight-A55
+Added Pin To Net: NetName=NETLABEL304 Pin=Flight-A56
+Added Pin To Net: NetName=NETLABEL304 Pin=Flight-B60
+Added Pin To Net: NetName=NETLABEL304 Pin=Jetson-A49
+Added Pin To Net: NetName=NETLABEL304 Pin=Jetson-A55
+Added Pin To Net: NetName=NETLABEL304 Pin=Jetson-A56
+Added Pin To Net: NetName=NETLABEL304 Pin=Jetson-B60
+Added Net: Name=NETLABEL304
+Added Pin To Net: NetName=NETLABEL305 Pin=Battery-A48
+Added Pin To Net: NetName=NETLABEL305 Pin=Battery-A54
+Added Pin To Net: NetName=NETLABEL305 Pin=Battery-B61
+Added Pin To Net: NetName=NETLABEL305 Pin=Flight-A48
+Added Pin To Net: NetName=NETLABEL305 Pin=Flight-A54
+Added Pin To Net: NetName=NETLABEL305 Pin=Flight-B61
+Added Pin To Net: NetName=NETLABEL305 Pin=Jetson-A48
+Added Pin To Net: NetName=NETLABEL305 Pin=Jetson-A54
+Added Pin To Net: NetName=NETLABEL305 Pin=Jetson-B61
+Added Net: Name=NETLABEL305
+Added Pin To Net: NetName=NETLABEL306 Pin=Battery-B62
+Added Pin To Net: NetName=NETLABEL306 Pin=Flight-B62
+Added Pin To Net: NetName=NETLABEL306 Pin=Jetson-B62
+Added Net: Name=NETLABEL306
+Added Pin To Net: NetName=NETLABEL307 Pin=Battery-B64
+Added Pin To Net: NetName=NETLABEL307 Pin=Flight-B64
+Added Pin To Net: NetName=NETLABEL307 Pin=Jetson-B64
+Added Net: Name=NETLABEL307
+Added Pin To Net: NetName=NETLABEL308 Pin=Battery-B63
+Added Pin To Net: NetName=NETLABEL308 Pin=Flight-B63
+Added Pin To Net: NetName=NETLABEL308 Pin=Jetson-B63
+Added Net: Name=NETLABEL308
+Added Pin To Net: NetName=NETLABEL309 Pin=Battery-B65
+Added Pin To Net: NetName=NETLABEL309 Pin=Flight-B65
+Added Pin To Net: NetName=NETLABEL309 Pin=Jetson-B65
+Added Net: Name=NETLABEL309
+Added Pin To Net: NetName=NETLABEL310 Pin=Battery-B66
+Added Pin To Net: NetName=NETLABEL310 Pin=Flight-B66
+Added Pin To Net: NetName=NETLABEL310 Pin=Jetson-B66
+Added Net: Name=NETLABEL310
+Added Pin To Net: NetName=NETLABEL311 Pin=Battery-B67
+Added Pin To Net: NetName=NETLABEL311 Pin=Flight-B67
+Added Pin To Net: NetName=NETLABEL311 Pin=Jetson-B67
+Added Net: Name=NETLABEL311
+Added Pin To Net: NetName=NETLABEL313 Pin=Battery-B68
+Added Pin To Net: NetName=NETLABEL313 Pin=Flight-B68
+Added Pin To Net: NetName=NETLABEL313 Pin=Jetson-B68
+Added Net: Name=NETLABEL313
+Added Pin To Net: NetName=NETLABEL314 Pin=Battery-B69
+Added Pin To Net: NetName=NETLABEL314 Pin=Flight-B69
+Added Pin To Net: NetName=NETLABEL314 Pin=Jetson-B69
+Added Net: Name=NETLABEL314
+Added Pin To Net: NetName=NETLABEL315 Pin=Battery-B70
+Added Pin To Net: NetName=NETLABEL315 Pin=Flight-B70
+Added Pin To Net: NetName=NETLABEL315 Pin=Jetson-B70
+Added Net: Name=NETLABEL315
+Added Pin To Net: NetName=NETLABEL316 Pin=Battery-A71
+Added Pin To Net: NetName=NETLABEL316 Pin=Battery-B71
+Added Pin To Net: NetName=NETLABEL316 Pin=Flight-A71
+Added Pin To Net: NetName=NETLABEL316 Pin=Flight-B71
+Added Pin To Net: NetName=NETLABEL316 Pin=Jetson-A71
+Added Pin To Net: NetName=NETLABEL316 Pin=Jetson-B71
+Added Net: Name=NETLABEL316
+Added Pin To Net: NetName=NETLABEL317 Pin=Battery-B72
+Added Pin To Net: NetName=NETLABEL317 Pin=Flight-B72
+Added Pin To Net: NetName=NETLABEL317 Pin=Jetson-B72
+Added Net: Name=NETLABEL317
+Added Pin To Net: NetName=NETLABEL318 Pin=Battery-B73
+Added Pin To Net: NetName=NETLABEL318 Pin=Flight-B73
+Added Pin To Net: NetName=NETLABEL318 Pin=Jetson-B73
+Added Net: Name=NETLABEL318
+Added Pin To Net: NetName=NETLABEL319 Pin=Battery-B74
+Added Pin To Net: NetName=NETLABEL319 Pin=Flight-B74
+Added Pin To Net: NetName=NETLABEL319 Pin=Jetson-B74
+Added Net: Name=NETLABEL319
+Added Pin To Net: NetName=NETLABEL320 Pin=Battery-B75
+Added Pin To Net: NetName=NETLABEL320 Pin=Flight-B75
+Added Pin To Net: NetName=NETLABEL320 Pin=Jetson-B75
+Added Net: Name=NETLABEL320
+Added Pin To Net: NetName=NETLABEL321 Pin=Battery-B76
+Added Pin To Net: NetName=NETLABEL321 Pin=Flight-B76
+Added Pin To Net: NetName=NETLABEL321 Pin=Jetson-B76
+Added Net: Name=NETLABEL321
+Added Pin To Net: NetName=NETLABEL322 Pin=Battery-B77
+Added Pin To Net: NetName=NETLABEL322 Pin=Flight-B77
+Added Pin To Net: NetName=NETLABEL322 Pin=Jetson-B77
+Added Net: Name=NETLABEL322
+Added Pin To Net: NetName=NETLABEL323 Pin=Battery-B78
+Added Pin To Net: NetName=NETLABEL323 Pin=Flight-B78
+Added Pin To Net: NetName=NETLABEL323 Pin=Jetson-B78
+Added Net: Name=NETLABEL323
+Added Pin To Net: NetName=NETLABEL324 Pin=Battery-B79
+Added Pin To Net: NetName=NETLABEL324 Pin=Flight-B79
+Added Pin To Net: NetName=NETLABEL324 Pin=Jetson-B79
+Added Net: Name=NETLABEL324
+Added Pin To Net: NetName=NETLABEL325 Pin=Battery-B80
+Added Pin To Net: NetName=NETLABEL325 Pin=Flight-B80
+Added Pin To Net: NetName=NETLABEL325 Pin=Jetson-B80
+Added Net: Name=NETLABEL325
+Added Pin To Net: NetName=NETLABEL326 Pin=Battery-B81
+Added Pin To Net: NetName=NETLABEL326 Pin=Flight-B81
+Added Pin To Net: NetName=NETLABEL326 Pin=Jetson-B81
+Added Net: Name=NETLABEL326
+Added Pin To Net: NetName=NETLABEL327 Pin=Battery-B82
+Added Pin To Net: NetName=NETLABEL327 Pin=Flight-B82
+Added Pin To Net: NetName=NETLABEL327 Pin=Jetson-B82
+Added Net: Name=NETLABEL327
+Added Pin To Net: NetName=RX_1 Pin=Battery-A26
+Added Pin To Net: NetName=RX_1 Pin=Battery-B27
+Added Pin To Net: NetName=RX_1 Pin=Flight-A26
+Added Pin To Net: NetName=RX_1 Pin=Flight-B27
+Added Pin To Net: NetName=RX_1 Pin=Jetson-A26
+Added Pin To Net: NetName=RX_1 Pin=Jetson-B27
+Added Net: Name=RX_1
+Added Pin To Net: NetName=RX_2 Pin=Battery-A34
+Added Pin To Net: NetName=RX_2 Pin=Battery-B35
+Added Pin To Net: NetName=RX_2 Pin=Flight-A34
+Added Pin To Net: NetName=RX_2 Pin=Flight-B35
+Added Pin To Net: NetName=RX_2 Pin=Jetson-A34
+Added Pin To Net: NetName=RX_2 Pin=Jetson-B35
+Added Net: Name=RX_2
+Added Pin To Net: NetName=RX_4 Pin=Battery-A42
+Added Pin To Net: NetName=RX_4 Pin=Flight-A42
+Added Pin To Net: NetName=RX_4 Pin=Jetson-A42
+Added Net: Name=RX_4
+Added Pin To Net: NetName=SCL_1 Pin=Battery-A2
+Added Pin To Net: NetName=SCL_1 Pin=Battery-B2
+Added Pin To Net: NetName=SCL_1 Pin=Flight-A2
+Added Pin To Net: NetName=SCL_1 Pin=Flight-B2
+Added Pin To Net: NetName=SCL_1 Pin=Jetson-A2
+Added Pin To Net: NetName=SCL_1 Pin=Jetson-B2
+Added Net: Name=SCL_1
+Added Pin To Net: NetName=SCL_2 Pin=Battery-A9
+Added Pin To Net: NetName=SCL_2 Pin=Battery-B9
+Added Pin To Net: NetName=SCL_2 Pin=Flight-A9
+Added Pin To Net: NetName=SCL_2 Pin=Flight-B9
+Added Pin To Net: NetName=SCL_2 Pin=Jetson-A9
+Added Pin To Net: NetName=SCL_2 Pin=Jetson-B9
+Added Net: Name=SCL_2
+Added Pin To Net: NetName=SCL_3 Pin=Battery-A24
+Added Pin To Net: NetName=SCL_3 Pin=Battery-B24
+Added Pin To Net: NetName=SCL_3 Pin=Flight-A24
+Added Pin To Net: NetName=SCL_3 Pin=Flight-B24
+Added Pin To Net: NetName=SCL_3 Pin=Jetson-A24
+Added Pin To Net: NetName=SCL_3 Pin=Jetson-B24
+Added Net: Name=SCL_3
+Added Pin To Net: NetName=SCL_PWR Pin=Battery-A5
+Added Pin To Net: NetName=SCL_PWR Pin=Battery-B5
+Added Pin To Net: NetName=SCL_PWR Pin=Flight-A5
+Added Pin To Net: NetName=SCL_PWR Pin=Flight-B5
+Added Pin To Net: NetName=SCL_PWR Pin=Jetson-A5
+Added Pin To Net: NetName=SCL_PWR Pin=Jetson-B5
+Added Net: Name=SCL_PWR
+Added Pin To Net: NetName=SPI_CC_1 Pin=Battery-A22
+Added Pin To Net: NetName=SPI_CC_1 Pin=Battery-B22
+Added Pin To Net: NetName=SPI_CC_1 Pin=Flight-A22
+Added Pin To Net: NetName=SPI_CC_1 Pin=Flight-B22
+Added Pin To Net: NetName=SPI_CC_1 Pin=Jetson-A22
+Added Pin To Net: NetName=SPI_CC_1 Pin=Jetson-B22
+Added Net: Name=SPI_CC_1
+Added Pin To Net: NetName=SPI_CC_3 Pin=Battery-A28
+Added Pin To Net: NetName=SPI_CC_3 Pin=Battery-B29
+Added Pin To Net: NetName=SPI_CC_3 Pin=Flight-A28
+Added Pin To Net: NetName=SPI_CC_3 Pin=Flight-B29
+Added Pin To Net: NetName=SPI_CC_3 Pin=Jetson-A28
+Added Pin To Net: NetName=SPI_CC_3 Pin=Jetson-B29
+Added Net: Name=SPI_CC_3
+Added Pin To Net: NetName=SPI_CC_5 Pin=Battery-A30
+Added Pin To Net: NetName=SPI_CC_5 Pin=Battery-B31
+Added Pin To Net: NetName=SPI_CC_5 Pin=Flight-A30
+Added Pin To Net: NetName=SPI_CC_5 Pin=Flight-B31
+Added Pin To Net: NetName=SPI_CC_5 Pin=Jetson-A30
+Added Pin To Net: NetName=SPI_CC_5 Pin=Jetson-B31
+Added Net: Name=SPI_CC_5
+Added Pin To Net: NetName=SPI_CC_7 Pin=Battery-A35
+Added Pin To Net: NetName=SPI_CC_7 Pin=Battery-B36
+Added Pin To Net: NetName=SPI_CC_7 Pin=Flight-A35
+Added Pin To Net: NetName=SPI_CC_7 Pin=Flight-B36
+Added Pin To Net: NetName=SPI_CC_7 Pin=Jetson-A35
+Added Pin To Net: NetName=SPI_CC_7 Pin=Jetson-B36
+Added Net: Name=SPI_CC_7
+Added Pin To Net: NetName=SPI_CC_8 Pin=Battery-A36
+Added Pin To Net: NetName=SPI_CC_8 Pin=Battery-B37
+Added Pin To Net: NetName=SPI_CC_8 Pin=Flight-A36
+Added Pin To Net: NetName=SPI_CC_8 Pin=Flight-B37
+Added Pin To Net: NetName=SPI_CC_8 Pin=Jetson-A36
+Added Pin To Net: NetName=SPI_CC_8 Pin=Jetson-B37
+Added Net: Name=SPI_CC_8
+Added Pin To Net: NetName=SPI_CLK_3 Pin=Battery-A17
+Added Pin To Net: NetName=SPI_CLK_3 Pin=Battery-B17
+Added Pin To Net: NetName=SPI_CLK_3 Pin=Flight-A17
+Added Pin To Net: NetName=SPI_CLK_3 Pin=Flight-B17
+Added Pin To Net: NetName=SPI_CLK_3 Pin=Jetson-A17
+Added Pin To Net: NetName=SPI_CLK_3 Pin=Jetson-B17
+Added Net: Name=SPI_CLK_3
+Added Pin To Net: NetName=TX_4 Pin=Battery-B43
+Added Pin To Net: NetName=TX_4 Pin=Flight-B43
+Added Pin To Net: NetName=TX_4 Pin=Jetson-B43
+Added Net: Name=TX_4
+Added Member To Class: ClassName=BackPlane Connector Member=Component Battery PCI-E x16
+Added Member To Class: ClassName=BackPlane Connector Member=Component Flight PCI-E x16
+Added Member To Class: ClassName=BackPlane Connector Member=Component Jetson PCI-E x16
+Added Member To Class: ClassName=Programmer Member=Component  Micro USB

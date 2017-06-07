@@ -1,0 +1,32 @@
+Added Component: Designator=C35(0805)
+Added Component: Designator=C36(0805)
+Added Component: Designator=C37(0805)
+Added Component: Designator=C38(0805)
+Added Component: Designator=C40(0805)
+Added Component: Designator=C41(0805)
+Added Component: Designator=C42(0805)
+Added Pin To Net: NetName=BATT_VDD Pin=C35-1
+Added Pin To Net: NetName=FT232RL_GND Pin=C35-2
+Added Pin To Net: NetName=BATT_VDD Pin=C36-1
+Added Pin To Net: NetName=FT232RL_GND Pin=C36-2
+Added Pin To Net: NetName=BATT_VDD Pin=C37-1
+Added Pin To Net: NetName=FT232RL_GND Pin=C37-2
+Added Pin To Net: NetName=NetC38_1 Pin=C38-1
+Added Pin To Net: NetName=FT232RL_GND Pin=C38-2
+Added Pin To Net: NetName=NetC40_1 Pin=C40-1
+Added Pin To Net: NetName=FT232RL_GND Pin=C40-2
+Added Pin To Net: NetName=NetC41_1 Pin=C41-1
+Added Pin To Net: NetName=FT232RL_GND Pin=C41-2
+Added Pin To Net: NetName=NetC42_1 Pin=C42-1
+Added Pin To Net: NetName=FT232RL_GND Pin=C42-2
+Added Pin To Net: NetName=NetC18_1 Pin=C18-1
+Added Net: Name=NetC18_1
+Added Pin To Net: NetName=NetC18_2 Pin=C18-2
+Added Net: Name=NetC18_2
+Added Member To Class: ClassName=U_VoltageRegulator12V Member=Component C35 C3216X6S1V106K160AC
+Added Member To Class: ClassName=U_VoltageRegulator12V Member=Component C36 C3216X6S1V106K160AC
+Added Member To Class: ClassName=U_VoltageRegulator12V Member=Component C37 C0805C104K5RACTU
+Added Member To Class: ClassName=U_VoltageRegulator12V Member=Component C38 20SVPF390M
+Added Member To Class: ClassName=U_VoltageRegulator12V Member=Component C40 CC0805KRX7R9BB103
+Added Member To Class: ClassName=U_VoltageRegulator12V Member=Component C41 CL21C102JBCNFNC
+Added Member To Class: ClassName=U_VoltageRegulator12V Member=Component C42 ERJ-6ENF2742V

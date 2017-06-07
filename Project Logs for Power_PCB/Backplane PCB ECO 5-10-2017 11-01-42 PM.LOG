@@ -1,0 +1,138 @@
+Removed Pin From Net: NetName=GND Pin=-5
+Change Component Comment : Designator=FT232RL Old Comment=FT232RL USB UART  New Comment=FT232RL USB UART
+Added Component: Designator=ATmega2560(100A_N)
+Added Component: Designator=C6(CAP 0402/1005)
+Added Component: Designator=C7(CAP 0402/1005)
+Added Component: Designator=C8(CAP ALUM 6.6MM)
+Added Component: Designator=CONN1(TE 282834-3)
+Added Component: Designator=D6(DO214AC SMA)
+Added Component: Designator=D7(LED 0603/1608)
+Added Component: Designator=OS1(NDK NX5032GA)
+Added Component: Designator=R46(RES 0402/1005)
+Added Component: Designator=R47(RES 0402/1005)
+Added Component: Designator=R48(RES 0402/1005)
+Added Pin To Net: NetName=FT232RL_GND Pin=-5
+Added Pin To Net: NetName=FT232RL_VCC_5V Pin=ATmega2560-10
+Added Pin To Net: NetName=GND Pin=ATmega2560-11
+Added Pin To Net: NetName=MCU_RESET Pin=ATmega2560-30
+Added Pin To Net: NetName=FT232RL_VCC_5V Pin=ATmega2560-31
+Added Pin To Net: NetName=GND Pin=ATmega2560-32
+Added Pin To Net: NetName=FT232RL_VCC_5V Pin=ATmega2560-61
+Added Pin To Net: NetName=GND Pin=ATmega2560-62
+Added Pin To Net: NetName=FT232RL_VCC_5V Pin=ATmega2560-80
+Added Pin To Net: NetName=GND Pin=ATmega2560-81
+Added Pin To Net: NetName=FT232RL_VCC_5V Pin=ATmega2560-98
+Added Pin To Net: NetName=GND Pin=ATmega2560-99
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=CONN1-1
+Added Pin To Net: NetName=FT232RL_VCC_5V Pin=CONN1-2
+Added Pin To Net: NetName=MCU_RESET Pin=D6-1
+Added Pin To Net: NetName=FT232RL_VCC_5V Pin=D6-2
+Added Pin To Net: NetName=GND Pin=D7-2
+Added Pin To Net: NetName=FT232RL_GND Pin=R10-1
+Added Pin To Net: NetName=FT232RL_GND Pin=R13-1
+Added Pin To Net: NetName=FT232RL_GND Pin=R17-1
+Added Pin To Net: NetName=FT232RL_GND Pin=R22-1
+Added Pin To Net: NetName=FT232RL_GND Pin=R28-1
+Added Pin To Net: NetName=FT232RL_GND Pin=R44-1
+Added Pin To Net: NetName=MCU_RESET Pin=R47-1
+Added Pin To Net: NetName=FT232RL_VCC_5V Pin=R47-2
+Added Pin To Net: NetName=FT232RL_VCC_5V Pin=R48-2
+Added Pin To Net: NetName=FT232RL_GND Pin=T1-2
+Change Net Name : Old Net Name=CELL_VDD_READING1 New Net Name=NetR11_1
+Change Net Name : Old Net Name=CELL_VDD_READING2 New Net Name=NetR14_1
+Change Net Name : Old Net Name=CELL_VDD_READING3 New Net Name=NetR18_1
+Change Net Name : Old Net Name=CELL_VDD_READING4 New Net Name=NetR23_1
+Change Net Name : Old Net Name=CELL_VDD_READING5 New Net Name=NetR29_1
+Change Net Name : Old Net Name=NetR12_1 New Net Name=CELL_VDD_READING1
+Change Net Name : Old Net Name=NetR16_1 New Net Name=CELL_VDD_READING2
+Change Net Name : Old Net Name=NetR21_1 New Net Name=CELL_VDD_READING3
+Change Net Name : Old Net Name=NetR27_1 New Net Name=CELL_VDD_READING4
+Change Net Name : Old Net Name=NetR43_1 New Net Name=CELL_VDD_READING5
+Added Net: Name=0
+Added Pin To Net: NetName=CELL0_VOLTAGE Pin=ATmega2560-97
+Added Net: Name=CELL0_VOLTAGE
+Added Pin To Net: NetName=CELL1_VOLTAGE Pin=ATmega2560-96
+Added Net: Name=CELL1_VOLTAGE
+Added Pin To Net: NetName=CELL2_VOLTAGE Pin=ATmega2560-95
+Added Net: Name=CELL2_VOLTAGE
+Added Pin To Net: NetName=CELL3_VOLTAGE Pin=ATmega2560-94
+Added Net: Name=CELL3_VOLTAGE
+Added Pin To Net: NetName=CELL4_VOLTAGE Pin=ATmega2560-93
+Added Net: Name=CELL4_VOLTAGE
+Added Pin To Net: NetName=CELL5_VOLTAGE Pin=ATmega2560-92
+Added Net: Name=CELL5_VOLTAGE
+Added Pin To Net: NetName=MCU_RX Pin=ATmega2560-2
+Added Net: Name=MCU_RX
+Added Pin To Net: NetName=MCU_TX Pin=ATmega2560-3
+Added Net: Name=MCU_TX
+Added Pin To Net: NetName=NetATmega2560_26 Pin=ATmega2560-26
+Added Pin To Net: NetName=NetATmega2560_26 Pin=R46-2
+Added Net: Name=NetATmega2560_26
+Added Pin To Net: NetName=NetATmega2560_33 Pin=ATmega2560-33
+Added Pin To Net: NetName=NetATmega2560_33 Pin=C7-1
+Added Pin To Net: NetName=NetATmega2560_33 Pin=OS1-1
+Added Net: Name=NetATmega2560_33
+Added Pin To Net: NetName=NetATmega2560_34 Pin=ATmega2560-34
+Added Pin To Net: NetName=NetATmega2560_34 Pin=C6-1
+Added Pin To Net: NetName=NetATmega2560_34 Pin=OS1-2
+Added Net: Name=NetATmega2560_34
+Added Pin To Net: NetName=NetATmega2560_100 Pin=ATmega2560-100
+Added Pin To Net: NetName=NetATmega2560_100 Pin=C8-1
+Added Pin To Net: NetName=NetATmega2560_100 Pin=R48-1
+Added Net: Name=NetATmega2560_100
+Added Pin To Net: NetName=NetCboot_1 Pin=D1-1
+Added Net: Name=NetCboot_1
+Added Net: Name=NetCboot_2
+Added Net: Name=NetCcomp1_1
+Added Net: Name=NetCcomp1_2
+Added Net: Name=NetCcomp2_1
+Added Net: Name=NetCcomp2_2
+Added Net: Name=NetCcomp_2
+Added Net: Name=NetCin_1
+Added Net: Name=NetCout_1
+Added Net: Name=NetCramp_1
+Added Net: Name=NetCres_1
+Added Net: Name=NetCss_1
+Added Pin To Net: NetName=NetCvcc_1 Pin=D1-2
+Added Net: Name=NetCvcc_1
+Added Net: Name=NetCvdd_1
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetD7_1 Pin=R46-1
+Added Net: Name=NetD7_1
+Added Net: Name=NetL1_2
+Added Net: Name=NetM1_1
+Added Net: Name=NetM1_4
+Added Net: Name=NetM1_5
+Added Net: Name=NetM2_1
+Added Net: Name=NetM2_4
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Net: Name=NetR3_1
+Added Net: Name=NetRenable_2
+Added Net: Name=NetRt_1
+Added Net: Name=NetRuv1_1
+Added Pin To Net: NetName=PWM_FAN_OUT Pin=ATmega2560-25
+Added Pin To Net: NetName=PWM_FAN_OUT Pin=CONN1-3
+Added Net: Name=PWM_FAN_OUT
+Added Pin To Net: NetName=SCL Pin=ATmega2560-43
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=ATmega2560-44
+Added Net: Name=SDA
+Added Pin To Net: NetName=TEMP_SENSOR Pin=ATmega2560-91
+Added Net: Name=TEMP_SENSOR
+Added Class: Name=MCU-Atmega2560
+Added Class: Name=U_VoltageRegulator3
+Added Class: Name=U_VoltageRegulator5V
+Added Class: Name=U_VoltageRegulator12V
+Added Class: Name=CV[5..0]
+Added Member To Class: ClassName=Programmer Member=Component  Micro USB
+Added Room: Name=MCU-Atmega2560
+Added Room: Name=U_VoltageRegulator3
+Added Room: Name=U_VoltageRegulator5V
+Added Room: Name=U_VoltageRegulator12V

@@ -1,0 +1,73 @@
+Removed Parameter Bidirectional Channels: from Part D6
+Removed Parameter Capacitance @ Frequency: from Part D6
+Removed Parameter ComponentLink3Description: from Part C6
+Removed Parameter ComponentLink3Description: from Part C7
+Removed Parameter ComponentLink3Description: from Part C8
+Removed Parameter ComponentLink3Description: from Part CONN1
+Removed Parameter ComponentLink3Description: from Part D6
+Removed Parameter ComponentLink3Description: from Part D7
+Removed Parameter ComponentLink3Description: from Part OS1
+Removed Parameter ComponentLink3Description: from Part R46
+Removed Parameter ComponentLink3Description: from Part R47
+Removed Parameter ComponentLink3Description: from Part R48
+Removed Parameter ComponentLink3URL: from Part C6
+Removed Parameter ComponentLink3URL: from Part C7
+Removed Parameter ComponentLink3URL: from Part C8
+Removed Parameter ComponentLink3URL: from Part CONN1
+Removed Parameter ComponentLink3URL: from Part D6
+Removed Parameter ComponentLink3URL: from Part D7
+Removed Parameter ComponentLink3URL: from Part OS1
+Removed Parameter ComponentLink3URL: from Part R46
+Removed Parameter ComponentLink3URL: from Part R47
+Removed Parameter ComponentLink3URL: from Part R48
+Removed Parameter Contact Finish: from Part CONN1
+Removed Parameter Dielectric: from Part C6
+Removed Parameter Dielectric: from Part C7
+Removed Parameter Fastening Type: from Part CONN1
+Removed Parameter Number Of Positions: from Part CONN1
+Removed Parameter Series: from Part OS1
+Removed Parameter Supplier 2: from Part C6
+Removed Parameter Supplier 2: from Part C7
+Removed Parameter Supplier 2: from Part C8
+Removed Parameter Supplier 2: from Part CONN1
+Removed Parameter Supplier 2: from Part D6
+Removed Parameter Supplier 2: from Part D7
+Removed Parameter Supplier 2: from Part OS1
+Removed Parameter Supplier 2: from Part R46
+Removed Parameter Supplier 2: from Part R47
+Removed Parameter Supplier 2: from Part R48
+Removed Parameter Supplier Part Number 2: from Part C6
+Removed Parameter Supplier Part Number 2: from Part C7
+Removed Parameter Supplier Part Number 2: from Part C8
+Removed Parameter Supplier Part Number 2: from Part CONN1
+Removed Parameter Supplier Part Number 2: from Part D6
+Removed Parameter Supplier Part Number 2: from Part D7
+Removed Parameter Supplier Part Number 2: from Part OS1
+Removed Parameter Supplier Part Number 2: from Part R46
+Removed Parameter Supplier Part Number 2: from Part R47
+Removed Parameter Supplier Part Number 2: from Part R48
+Removed Parameter Tolerance: from Part CONN1
+Removed Parameter Type: from Part CONN1
+Removed Parameter Unidirectional Channels: from Part D6
+Removed Parameter Value: from Part OS1
+Change Component Parameter Comment in C6 Old= New==Value
+Change Component Parameter Comment in C7 Old= New==Value
+Change Component Parameter Comment in C8 Old= New==Value
+Change Component Parameter Comment in CONN1 Old= New=="Part Number"
+Change Component Parameter Comment in D6 Old= New=="Part Number"
+Change Component Parameter Comment in D7 Old= New==Colour
+Change Component Parameter Comment in OS1 Old= New==Frequency
+Change Component Parameter Comment in R46 Old= New==Value
+Change Component Parameter Comment in R47 Old= New==Value
+Change Component Parameter Comment in R48 Old= New==Value
+Replace Symbol from ATmega2560 ATmega2560-16AU in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\Atmega2560.SchDoc with ATmega2560-16AU from Atmel Microcontroller 8-Bit megaAVR.IntLib
+Replace Symbol from C6 Capacitor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\Atmega2560.SchDoc with Capacitor from Celestial Library Database.DbLib
+Replace Symbol from C7 Capacitor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\Atmega2560.SchDoc with Capacitor from Celestial Library Database.DbLib
+Replace Symbol from C8 Polarised Capacitor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\Atmega2560.SchDoc with Polarised Capacitor from Celestial Library Database.DbLib
+Replace Symbol from CONN1 3 Pin in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\Atmega2560.SchDoc with 3 Pin from Celestial Library Database.DbLib
+Replace Symbol from D6 Diode in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\Atmega2560.SchDoc with Diode from Celestial Library Database.DbLib
+Replace Symbol from D7 LED in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\Atmega2560.SchDoc with LED from Celestial Library Database.DbLib
+Replace Symbol from OS1 NDK Crystal NX5032GA in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\Atmega2560.SchDoc with NDK Crystal NX5032GA from Celestial Library Database.DbLib
+Replace Symbol from R46 Resistor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\Atmega2560.SchDoc with Resistor from Celestial Library Database.DbLib
+Replace Symbol from R47 Resistor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\Atmega2560.SchDoc with Resistor from Celestial Library Database.DbLib
+Replace Symbol from R48 Resistor in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\Atmega2560.SchDoc with Resistor from Celestial Library Database.DbLib

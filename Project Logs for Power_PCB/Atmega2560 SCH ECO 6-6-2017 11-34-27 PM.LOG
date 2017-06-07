@@ -1,0 +1,62 @@
+Change Component Parameter Comment in C6 Old= New==Value
+Change Component Parameter Comment in C7 Old= New==Value
+Change Component Parameter Comment in C8 Old= New==Value
+Change Component Parameter Comment in CONN1 Old= New=="Part Number"
+Change Component Parameter Comment in D6 Old= New=="Part Number"
+Change Component Parameter Comment in D7 Old= New==Colour
+Change Component Parameter Comment in OS1 Old= New==Frequency
+Change Component Parameter Comment in R46 Old= New==Value
+Change Component Parameter Comment in R47 Old= New==Value
+Change Component Parameter Comment in R48 Old= New==Value
+Added Parameter Bidirectional Channels= to Part D6
+Added Parameter Capacitance @ Frequency= to Part D6
+Added Parameter ComponentLink3Description= to Part C6
+Added Parameter ComponentLink3Description= to Part C7
+Added Parameter ComponentLink3Description= to Part C8
+Added Parameter ComponentLink3Description= to Part CONN1
+Added Parameter ComponentLink3Description= to Part D6
+Added Parameter ComponentLink3Description= to Part D7
+Added Parameter ComponentLink3Description= to Part OS1
+Added Parameter ComponentLink3Description= to Part R46
+Added Parameter ComponentLink3Description= to Part R47
+Added Parameter ComponentLink3Description= to Part R48
+Added Parameter ComponentLink3URL= to Part C6
+Added Parameter ComponentLink3URL= to Part C7
+Added Parameter ComponentLink3URL= to Part C8
+Added Parameter ComponentLink3URL= to Part CONN1
+Added Parameter ComponentLink3URL= to Part D6
+Added Parameter ComponentLink3URL= to Part D7
+Added Parameter ComponentLink3URL= to Part OS1
+Added Parameter ComponentLink3URL= to Part R46
+Added Parameter ComponentLink3URL= to Part R47
+Added Parameter ComponentLink3URL= to Part R48
+Added Parameter Contact Finish= to Part CONN1
+Added Parameter Dielectric= to Part C6
+Added Parameter Dielectric= to Part C7
+Added Parameter Fastening Type= to Part CONN1
+Added Parameter Number Of Positions= to Part CONN1
+Added Parameter Series= to Part OS1
+Added Parameter Supplier 2= to Part C6
+Added Parameter Supplier 2= to Part C7
+Added Parameter Supplier 2= to Part C8
+Added Parameter Supplier 2= to Part CONN1
+Added Parameter Supplier 2= to Part D6
+Added Parameter Supplier 2= to Part D7
+Added Parameter Supplier 2= to Part OS1
+Added Parameter Supplier 2= to Part R46
+Added Parameter Supplier 2= to Part R47
+Added Parameter Supplier 2= to Part R48
+Added Parameter Supplier Part Number 2= to Part C6
+Added Parameter Supplier Part Number 2= to Part C7
+Added Parameter Supplier Part Number 2= to Part C8
+Added Parameter Supplier Part Number 2= to Part CONN1
+Added Parameter Supplier Part Number 2= to Part D6
+Added Parameter Supplier Part Number 2= to Part D7
+Added Parameter Supplier Part Number 2= to Part OS1
+Added Parameter Supplier Part Number 2= to Part R46
+Added Parameter Supplier Part Number 2= to Part R47
+Added Parameter Supplier Part Number 2= to Part R48
+Added Parameter Tolerance= to Part CONN1
+Added Parameter Type= to Part CONN1
+Added Parameter Unidirectional Channels= to Part D6
+Added Parameter Value= to Part OS1
