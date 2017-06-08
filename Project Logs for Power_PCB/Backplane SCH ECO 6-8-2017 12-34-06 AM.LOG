@@ -1,0 +1,6 @@
+Add Pin To Net: Pin=VRM1-FB Old Net=NetVRM1_FB New Net=3.3V
+Add Pin To Net: Pin=VRM1-VIN Old Net=NetVRM1_VIN New Net=BATT_VDD
+Add Pin To Net: Pin=VRM2-FB Old Net=NetVRM2_FB New Net=KILL_VCC
+Add Pin To Net: Pin=VRM2-VIN Old Net=NetVRM2_VIN New Net=BATT_VDD
+Add Pin To Net: Pin=VRM3-FB Old Net=NetVRM3_FB New Net=12V
+Add Pin To Net: Pin=VRM3-VIN Old Net=BATT_VDD New Net=BATT_VDD

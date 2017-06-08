@@ -1,0 +1,14 @@
+Removed Member From Class: ClassName=U_VoltageRegulator5V Member=VRM1
+Change Net Name : Old Net Name=CELL0_VOLTAGE New Net Name=CV0
+Change Net Name : Old Net Name=CELL1_VOLTAGE New Net Name=CV1
+Change Net Name : Old Net Name=CELL2_VOLTAGE New Net Name=CV2
+Change Net Name : Old Net Name=CELL3_VOLTAGE New Net Name=CV3
+Change Net Name : Old Net Name=CELL4_VOLTAGE New Net Name=CV4
+Change Net Name : Old Net Name=CELL5_VOLTAGE New Net Name=CV5
+Added Member To Class: ClassName=U_VoltageRegulator5V Member=Component VRM2 LM2596SX-12
+Added Member To Class: ClassName=CV[5..0] Member=Element[0]: CELL0_VOLTAGE
+Added Member To Class: ClassName=CV[5..0] Member=Element[1]: CELL1_VOLTAGE
+Added Member To Class: ClassName=CV[5..0] Member=Element[2]: CELL2_VOLTAGE
+Added Member To Class: ClassName=CV[5..0] Member=Element[3]: CELL3_VOLTAGE
+Added Member To Class: ClassName=CV[5..0] Member=Element[4]: CELL4_VOLTAGE
+Added Member To Class: ClassName=CV[5..0] Member=Element[5]: CELL5_VOLTAGE

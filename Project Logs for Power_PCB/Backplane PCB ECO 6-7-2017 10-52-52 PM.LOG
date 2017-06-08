@@ -1,0 +1,83 @@
+Removed Pin From Net: NetName=FT232RL_GND Pin=C9-1
+Removed Pin From Net: NetName=BATT_VDD Pin=C9-2
+Removed Pin From Net: NetName=BATT_VDD Pin=C10-2
+Removed Pin From Net: NetName=BATT_VDD Pin=C11-2
+Removed Pin From Net: NetName=FT232RL_GND Pin=C13-1
+Removed Pin From Net: NetName=FT232RL_GND Pin=C14-1
+Removed Pin From Net: NetName=FT232RL_GND Pin=C15-1
+Removed Pin From Net: NetName=FT232RL_GND Pin=C17-1
+Removed Pin From Net: NetName=FT232RL_GND Pin=C19-2
+Removed Pin From Net: NetName=FT232RL_GND Pin=C20-2
+Removed Pin From Net: NetName=FT232RL_GND Pin=C21-2
+Removed Pin From Net: NetName=FT232RL_GND Pin=C22-2
+Removed Pin From Net: NetName=BATT_VDD Pin=C35-1
+Removed Pin From Net: NetName=BATT_VDD Pin=C36-1
+Removed Pin From Net: NetName=BATT_VDD Pin=C37-1
+Removed Member From Class: ClassName=U_VoltageRegulator3 Member=C9
+Removed Member From Class: ClassName=U_VoltageRegulator3 Member=C13
+Removed Member From Class: ClassName=U_VoltageRegulator3 Member=C14
+Removed Member From Class: ClassName=U_VoltageRegulator3 Member=C15
+Removed Member From Class: ClassName=U_VoltageRegulator3 Member=C16
+Removed Member From Class: ClassName=U_VoltageRegulator3 Member=C17
+Removed Member From Class: ClassName=U_VoltageRegulator3 Member=C18
+Removed Member From Class: ClassName=U_VoltageRegulator3 Member=C19
+Removed Member From Class: ClassName=U_VoltageRegulator3 Member=C20
+Removed Member From Class: ClassName=U_VoltageRegulator3 Member=C21
+Removed Member From Class: ClassName=U_VoltageRegulator3 Member=C22
+Change Component DesignItemId : Designator=C10 Old DesignItemId=C1005X7R1H104K050BB New DesignItemId=C1005X7R1C104K050BC
+Change Component DesignItemId : Designator=C11 Old DesignItemId=C1005X7R1H104K050BB New DesignItemId=C1005X7R1C104K050BC
+Change Component DesignItemId : Designator=C12 Old DesignItemId=CL21C331JBANNNC New DesignItemId=C1005X7R1C104K050BC
+Change Component Footprint: Designator=C12 Old Footprint=CAP 0805/2012 New Footprint=CAP 0402/1005
+Change Component Comment : Designator=C11 Old Comment=0.1uF New Comment=10uF
+Change Component Comment : Designator=C10 Old Comment=0.1uF New Comment=100nF
+Change Component Comment : Designator=C12 Old Comment=330pF New Comment=100uF
+Change Component Description : Designator=C10 Old Description=CAP CER 0.1UF 50V X7R 0402 New Description=CAP CER 0.1UF 16V X7R 0402
+Change Component Description : Designator=C11 Old Description=CAP CER 0.1UF 50V X7R 0402 New Description=CAP CER 0.1UF 16V X7R 0402
+Added Component: Designator=L1(TDK VLS252010CX)
+Added Component: Designator=RF_bb(RES 0402/1005)
+Added Component: Designator=RF_bt(RES 0402/1005)
+Added Component: Designator=VRM0(TI PVSON-14 DSJ)
+Added Pin To Net: NetName=5V Pin=C11-2
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=FT232RL_GND Pin=RF_bb-1
+Added Pin To Net: NetName=NetC12_2 Pin=RF_bt-2
+Added Pin To Net: NetName=FT232RL_GND Pin=VRM0-2
+Added Pin To Net: NetName=NetC12_2 Pin=VRM0-4
+Added Pin To Net: NetName=NetC12_2 Pin=VRM0-5
+Added Pin To Net: NetName=NetL1_2 Pin=VRM0-8
+Added Pin To Net: NetName=NetL1_2 Pin=VRM0-9
+Added Pin To Net: NetName=FT232RL_GND Pin=VRM0-13
+Added Pin To Net: NetName=FT232RL_GND Pin=VRM0-15
+Added Pin To Net: NetName=FT232RL_GND Pin=VRM0-15
+Added Pin To Net: NetName=FT232RL_GND Pin=VRM0-15
+Added Pin To Net: NetName=FT232RL_GND Pin=VRM0-15
+Added Pin To Net: NetName=FT232RL_GND Pin=VRM0-15
+Added Pin To Net: NetName=FT232RL_GND Pin=VRM0-15
+Added Pin To Net: NetName=FT232RL_GND Pin=VRM0-15
+Added Pin To Net: NetName=FT232RL_GND Pin=VRM0-15
+Added Pin To Net: NetName=FT232RL_GND Pin=VRM0-15
+Added Pin To Net: NetName=5V_IN Pin=VRM0-10
+Added Pin To Net: NetName=5V_IN Pin=VRM0-11
+Added Net: Name=5V_IN
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=VRM0-1
+Added Pin To Net: NetName=NetC10_2 Pin=VRM0-12
+Added Net: Name=NetC10_2
+Added Net: Name=NetC23_1
+Added Pin To Net: NetName=NetC35_1 Pin=C35-1
+Added Pin To Net: NetName=NetC35_1 Pin=C36-1
+Added Pin To Net: NetName=NetC35_1 Pin=C37-1
+Added Net: Name=NetC35_1
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=VRM0-6
+Added Pin To Net: NetName=NetL1_1 Pin=VRM0-7
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetRF_bb_2 Pin=RF_bb-2
+Added Pin To Net: NetName=NetRF_bb_2 Pin=RF_bt-1
+Added Pin To Net: NetName=NetRF_bb_2 Pin=VRM0-3
+Added Net: Name=NetRF_bb_2
+Added Member To Class: ClassName=U_VoltageRegulator3 Member=Component L1 1.00 uH
+Added Member To Class: ClassName=U_VoltageRegulator3 Member=Component RF_bb 137kOhm
+Added Member To Class: ClassName=U_VoltageRegulator3 Member=Component RF_bt 768kOhm
+Added Member To Class: ClassName=Programmer Member=Component  Micro USB
+Added Member To Class: ClassName=U_VoltageRegulator3 Member=Component VRM0 TPS63020DSJT

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=5V Pin=C15-1
+Removed Pin From Net: NetName=5V Pin=L2-2
+Change Component Designator: OldDesignator=VRM1 NewDesignator=VRM2
+Change Component Designator: OldDesignator=VRM2 NewDesignator=VRM1
+Added Pin To Net: NetName=BATT_VDD Pin=C11-2
+Added Pin To Net: NetName=BATT_VDD Pin=C14-2
+Added Pin To Net: NetName=BATT_VDD Pin=C17-2
+Added Pin To Net: NetName=NetC15_1 Pin=C15-1
+Added Pin To Net: NetName=NetC15_1 Pin=L2-2
+Added Net: Name=NetC15_1
