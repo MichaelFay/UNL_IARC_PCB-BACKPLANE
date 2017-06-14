@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=3.3V Pin=VRM1-FB
+Removed Pin From Net: NetName=BATT_VDD Pin=VRM1-VIN
+Removed Pin From Net: NetName=5V Pin=VRM2-FB
+Removed Pin From Net: NetName=BATT_VDD Pin=VRM2-VIN
+Removed Pin From Net: NetName=12V Pin=VRM3-FB
+Removed Pin From Net: NetName=BATT_VDD Pin=VRM3-VIN
+Change Component Comment : Designator=Flight Old Comment=Copy from  con-pci_express(pci-e).lbr uploaded Mon Jul 2 10:15:25 2007   Library for PCI-Express x16 (PCI-E) connector. Includes connector and card edge pattern. Uploaded by JF Duval <jfduval@aqra.ca> from AQRA.ca New Comment=
+Change Component Comment : Designator=Jetson Old Comment=Copy from  con-pci_express(pci-e).lbr uploaded Mon Jul 2 10:15:25 2007   Library for PCI-Express x16 (PCI-E) connector. Includes connector and card edge pattern. Uploaded by JF Duval <jfduval@aqra.ca> from AQRA.ca New Comment=
+Change Component Comment : Designator=FT232RL Old Comment=FT232RL USB UART    This is the simplified version of the FT232RL unit. Only what you need, nothing you don't.   FT232RL 4th Generation USB UART (USB <-> Serial) Controller.   Datasheet SparkFun Products  Component (COM-00650)  SparkFun RedBot Mainboard (ROB-12097)  SparkFun FTDI Basic Breakout - 5V (DEV-09716)  SparkFun FTDI Basic Breakout - 3.3V (DEV-09873)  Bus Pirate - v3.6a (TOL-12942)  SparkFun USB to Serial Breakout - FT232RL (BOB-12731)  SparkFun PicoBoard (WIG-11888)  SparkFun RFID USB Reader (SEN-09963)  LilyPad FTDI Basic Breakout - 5V (DEV-10275)  SparkFun Stepoko (ROB-13899) New Comment=
+Change Component Comment : Designator=BATTERY_FUSE Old Comment=Resettable Fuse PPTC    Resettable Fuse. Really a sort of resistor with a polymeric positive temperature coefficient whose resistance increases dramatically with an increase in temperature. When heated by the power passing through the resistance rises causing the current to be limited, protecting the circuit. This is achieved by the transition of the polymer from a crystalline to an amorphous state where the conductive carbon separates breaking the conductive pathways found in the cool crystalline structure. When a PPTC cools back down it resumes conducting letting the circuit turn back on.   SparkFun Products:  SparkFun RedBoard - Programmed with Arduino  Pro Micro - 5V/16MHz  Arduino Pro 328 - 5V/16MHz  MP3 Trigger New Comment=
+Change Component Designator: OldDesignator= NewDesignator=SB MICRO B RECPT SMT
+Added Component: Designator=Cell Voltage(HDR1X6)
+Change Net Name : Old Net Name=MCU_RESET New Net Name=NetATmega2560_30
+Added Pin To Net: NetName=NetATmega2560_2 Pin=ATmega2560-2
+Added Pin To Net: NetName=NetATmega2560_2 Pin=R4-2
+Added Net: Name=NetATmega2560_2
+Added Pin To Net: NetName=NetATmega2560_3 Pin=ATmega2560-3
+Added Pin To Net: NetName=NetATmega2560_3 Pin=R5-2
+Added Net: Name=NetATmega2560_3
+Added Pin To Net: NetName=NetCell Voltage_1 Pin=Cell Voltage-1
+Added Pin To Net: NetName=NetCell Voltage_1 Pin=R45-2
+Added Net: Name=NetCell Voltage_1
+Added Pin To Net: NetName=NetCell Voltage_2 Pin=Cell Voltage-2
+Added Pin To Net: NetName=NetCell Voltage_2 Pin=R11-2
+Added Net: Name=NetCell Voltage_2
+Added Pin To Net: NetName=NetCell Voltage_3 Pin=Cell Voltage-3
+Added Pin To Net: NetName=NetCell Voltage_3 Pin=R14-2
+Added Net: Name=NetCell Voltage_3
+Added Pin To Net: NetName=NetCell Voltage_4 Pin=Cell Voltage-4
+Added Pin To Net: NetName=NetCell Voltage_4 Pin=R18-2
+Added Net: Name=NetCell Voltage_4
+Added Pin To Net: NetName=NetCell Voltage_5 Pin=Cell Voltage-5
+Added Pin To Net: NetName=NetCell Voltage_5 Pin=R23-2
+Added Net: Name=NetCell Voltage_5
+Added Pin To Net: NetName=NetCell Voltage_6 Pin=Cell Voltage-6
+Added Pin To Net: NetName=NetCell Voltage_6 Pin=R29-2
+Added Net: Name=NetCell Voltage_6
+Added Member To Class: ClassName=BatteryCircuit Member=Component Cell Voltage Header 6
+Added Member To Class: ClassName=Programmer Member=Component SB MICRO B RECPT SMT Micro USB

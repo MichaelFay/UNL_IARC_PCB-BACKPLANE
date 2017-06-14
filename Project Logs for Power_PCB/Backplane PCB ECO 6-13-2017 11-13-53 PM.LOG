@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetATmega2560_2 Pin=R4-2
+Removed Pin From Net: NetName=NetATmega2560_3 Pin=R5-2
+Added Pin To Net: NetName=NetATmega2560_3 Pin=R4-2
+Added Pin To Net: NetName=NetATmega2560_2 Pin=R5-2
