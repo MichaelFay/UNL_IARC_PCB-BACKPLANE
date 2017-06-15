@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=FT232RL_GND Pin=BL-2
+Removed Pin From Net: NetName=FT232RL_GND Pin=BR-2
+Removed Pin From Net: NetName=FT232RL_GND Pin=FL-2
+Removed Pin From Net: NetName=FT232RL_GND Pin=FR-2
+Removed Member From Class: ClassName=Motor Controls Member=BL
+Removed Member From Class: ClassName=Motor Controls Member=BR
+Removed Member From Class: ClassName=Motor Controls Member=FL
+Removed Member From Class: ClassName=Motor Controls Member=FR
+Added Component: Designator=MOTOR_BL(XT60)
+Added Component: Designator=MOTOR_BR(XT60)
+Added Component: Designator=MOTOR_FL(XT60)
+Added Component: Designator=MOTOR_FR(XT60)
+Added Member To Class: ClassName=Motor Controls Member=Component MOTOR_BL XT60
+Added Member To Class: ClassName=Motor Controls Member=Component MOTOR_BR XT60
+Added Member To Class: ClassName=Motor Controls Member=Component MOTOR_FL XT60
+Added Member To Class: ClassName=Motor Controls Member=Component MOTOR_FR XT60

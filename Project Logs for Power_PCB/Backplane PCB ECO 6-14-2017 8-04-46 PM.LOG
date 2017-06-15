@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=MOTOR_FR_POSTIVE Pin=BL-1
+Removed Pin From Net: NetName=MOTOR_FL_POSTIVE Pin=BR-1
+Removed Pin From Net: NetName=MOTOR_BR_POSTIVE Pin=FL-1
+Removed Pin From Net: NetName=MOTOR_BL_POSTIVE Pin=FR-1
+Added Component: Designator=BL_Fuse(Blade Fuse Holder)
+Added Component: Designator=BR_Fuse(Blade Fuse Holder)
+Added Component: Designator=FL_Fuse(Blade Fuse Holder)
+Added Component: Designator=FR_Fuse(Blade Fuse Holder)
+Added Pin To Net: NetName=3.3V Pin=C12-1
+Added Pin To Net: NetName=5V Pin=C15-1
+Added Pin To Net: NetName=12V Pin=C16-1
+Added Pin To Net: NetName=3.3V Pin=L1-2
+Added Pin To Net: NetName=5V Pin=L2-2
+Added Pin To Net: NetName=12V Pin=L3-2
+Added Member To Class: ClassName=Motor Controls Member=Component BL_Fuse Blade Fuse
+Added Member To Class: ClassName=Motor Controls Member=Component BR_Fuse Blade Fuse
+Added Member To Class: ClassName=Motor Controls Member=Component FL_Fuse Blade Fuse
+Added Member To Class: ClassName=Motor Controls Member=Component FR_Fuse Blade Fuse

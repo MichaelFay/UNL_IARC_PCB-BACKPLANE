@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=FT232RL_GND Pin=LEFT-1
+Removed Pin From Net: NetName=BATT_VDD Pin=LEFT-2
+Removed Member From Class: ClassName=BatteryCircuit Member=LEFT
+Added Component: Designator=BATT(XT60)
+Added Member To Class: ClassName=BatteryCircuit Member=Component BATT XT60

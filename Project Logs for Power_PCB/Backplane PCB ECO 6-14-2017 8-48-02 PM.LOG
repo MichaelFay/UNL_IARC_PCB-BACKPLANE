@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=BATT_VDD Pin=BATTERY_FUSE-P$2
+Removed Member From Class: ClassName=BatteryCircuit Member=BATTERY_FUSE
+Change Component Comment : Designator=Flight Old Comment= New Comment=Copy from  con-pci_express(pci-e).lbr uploaded Mon Jul 2 10:15:25 2007   Library for PCI-Express x16 (PCI-E) connector. Includes connector and card edge pattern. Uploaded by JF Duval <jfduval@aqra.ca> from AQRA.ca
+Change Component Comment : Designator=Jetson Old Comment= New Comment=Copy from  con-pci_express(pci-e).lbr uploaded Mon Jul 2 10:15:25 2007   Library for PCI-Express x16 (PCI-E) connector. Includes connector and card edge pattern. Uploaded by JF Duval <jfduval@aqra.ca> from AQRA.ca
+Added Pin To Net: NetName=BATT_VDD Pin=LEFT-2

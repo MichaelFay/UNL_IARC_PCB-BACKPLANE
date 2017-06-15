@@ -1,0 +1,189 @@
+Removed Pin From Net: NetName=LVDS_8L Pin=Flight-A14
+Removed Pin From Net: NetName=LVDS_7L Pin=Flight-A15
+Removed Pin From Net: NetName=LVDS_6L Pin=Flight-A25
+Removed Pin From Net: NetName=LVDS_5L Pin=Flight-A27
+Removed Pin From Net: NetName=LVDS_3L Pin=Flight-A38
+Removed Pin From Net: NetName=LVDS_4L Pin=Flight-B33
+Removed Pin From Net: NetName=LVDS_8L Pin=Jetson-A14
+Removed Pin From Net: NetName=LVDS_7L Pin=Jetson-A15
+Removed Pin From Net: NetName=LVDS_6L Pin=Jetson-A25
+Removed Pin From Net: NetName=LVDS_5L Pin=Jetson-A27
+Removed Pin From Net: NetName=LVDS_3L Pin=Jetson-A38
+Removed Pin From Net: NetName=LVDS_4L Pin=Jetson-B33
+Change Component Comment : Designator=Flight Old Comment=Copy from  con-pci_express(pci-e).lbr uploaded Mon Jul 2 10:15:25 2007   Library for PCI-Express x16 (PCI-E) connector. Includes connector and card edge pattern. Uploaded by JF Duval <jfduval@aqra.ca> from AQRA.ca New Comment=
+Change Component Comment : Designator=Jetson Old Comment=Copy from  con-pci_express(pci-e).lbr uploaded Mon Jul 2 10:15:25 2007   Library for PCI-Express x16 (PCI-E) connector. Includes connector and card edge pattern. Uploaded by JF Duval <jfduval@aqra.ca> from AQRA.ca New Comment=
+Added Pin To Net: NetName=FT232RL_GND Pin=Flight-A48
+Added Pin To Net: NetName=FT232RL_GND Pin=Flight-A49
+Added Pin To Net: NetName=FT232RL_GND Pin=Flight-A50
+Added Pin To Net: NetName=FT232RL_GND Pin=Flight-A51
+Added Pin To Net: NetName=FT232RL_GND Pin=Flight-A52
+Added Pin To Net: NetName=FT232RL_GND Pin=Flight-A53
+Added Pin To Net: NetName=FT232RL_GND Pin=Flight-A54
+Added Pin To Net: NetName=FT232RL_GND Pin=Flight-A55
+Added Pin To Net: NetName=FT232RL_GND Pin=Flight-A56
+Added Pin To Net: NetName=FT232RL_GND Pin=Flight-A57
+Added Pin To Net: NetName=FT232RL_GND Pin=Flight-A58
+Added Pin To Net: NetName=FT232RL_GND Pin=Flight-A59
+Added Pin To Net: NetName=FT232RL_GND Pin=Flight-A60
+Added Pin To Net: NetName=FT232RL_GND Pin=Flight-A61
+Added Pin To Net: NetName=FT232RL_GND Pin=Flight-A62
+Added Pin To Net: NetName=FT232RL_GND Pin=Flight-A63
+Added Pin To Net: NetName=FT232RL_GND Pin=Flight-A64
+Added Pin To Net: NetName=FT232RL_GND Pin=Flight-A65
+Added Pin To Net: NetName=FT232RL_GND Pin=Flight-A66
+Added Pin To Net: NetName=FT232RL_GND Pin=Flight-A67
+Added Pin To Net: NetName=FT232RL_GND Pin=Flight-A68
+Added Pin To Net: NetName=FT232RL_GND Pin=Flight-A69
+Added Pin To Net: NetName=FT232RL_GND Pin=Flight-A70
+Added Pin To Net: NetName=FT232RL_GND Pin=Flight-A71
+Added Pin To Net: NetName=FT232RL_GND Pin=Flight-A72
+Added Pin To Net: NetName=FT232RL_GND Pin=Flight-A73
+Added Pin To Net: NetName=FT232RL_GND Pin=Flight-A74
+Added Pin To Net: NetName=FT232RL_GND Pin=Flight-A75
+Added Pin To Net: NetName=FT232RL_GND Pin=Flight-A76
+Added Pin To Net: NetName=FT232RL_GND Pin=Flight-A77
+Added Pin To Net: NetName=FT232RL_GND Pin=Flight-A78
+Added Pin To Net: NetName=FT232RL_GND Pin=Flight-A79
+Added Pin To Net: NetName=FT232RL_GND Pin=Flight-A80
+Added Pin To Net: NetName=FT232RL_GND Pin=Flight-A81
+Added Pin To Net: NetName=FT232RL_GND Pin=Flight-A82
+Added Pin To Net: NetName=MOTOR_BR_PWM Pin=Flight-B41
+Added Pin To Net: NetName=12V Pin=Flight-B49
+Added Pin To Net: NetName=12V Pin=Flight-B50
+Added Pin To Net: NetName=12V Pin=Flight-B51
+Added Pin To Net: NetName=12V Pin=Flight-B52
+Added Pin To Net: NetName=12V Pin=Flight-B53
+Added Pin To Net: NetName=12V Pin=Flight-B54
+Added Pin To Net: NetName=12V Pin=Flight-B55
+Added Pin To Net: NetName=12V Pin=Flight-B56
+Added Pin To Net: NetName=12V Pin=Flight-B57
+Added Pin To Net: NetName=12V Pin=Flight-B58
+Added Pin To Net: NetName=12V Pin=Flight-B59
+Added Pin To Net: NetName=12V Pin=Flight-B60
+Added Pin To Net: NetName=12V Pin=Flight-B61
+Added Pin To Net: NetName=12V Pin=Flight-B62
+Added Pin To Net: NetName=12V Pin=Flight-B63
+Added Pin To Net: NetName=12V Pin=Flight-B64
+Added Pin To Net: NetName=12V Pin=Flight-B65
+Added Pin To Net: NetName=12V Pin=Flight-B66
+Added Pin To Net: NetName=12V Pin=Flight-B67
+Added Pin To Net: NetName=12V Pin=Flight-B68
+Added Pin To Net: NetName=12V Pin=Flight-B69
+Added Pin To Net: NetName=12V Pin=Flight-B70
+Added Pin To Net: NetName=12V Pin=Flight-B71
+Added Pin To Net: NetName=12V Pin=Flight-B72
+Added Pin To Net: NetName=12V Pin=Flight-B73
+Added Pin To Net: NetName=12V Pin=Flight-B74
+Added Pin To Net: NetName=12V Pin=Flight-B75
+Added Pin To Net: NetName=12V Pin=Flight-B76
+Added Pin To Net: NetName=12V Pin=Flight-B77
+Added Pin To Net: NetName=12V Pin=Flight-B78
+Added Pin To Net: NetName=12V Pin=Flight-B79
+Added Pin To Net: NetName=12V Pin=Flight-B80
+Added Pin To Net: NetName=12V Pin=Flight-B81
+Added Pin To Net: NetName=12V Pin=Flight-B82
+Added Pin To Net: NetName=FT232RL_GND Pin=Jetson-A48
+Added Pin To Net: NetName=FT232RL_GND Pin=Jetson-A49
+Added Pin To Net: NetName=FT232RL_GND Pin=Jetson-A50
+Added Pin To Net: NetName=FT232RL_GND Pin=Jetson-A51
+Added Pin To Net: NetName=FT232RL_GND Pin=Jetson-A52
+Added Pin To Net: NetName=FT232RL_GND Pin=Jetson-A53
+Added Pin To Net: NetName=FT232RL_GND Pin=Jetson-A54
+Added Pin To Net: NetName=FT232RL_GND Pin=Jetson-A55
+Added Pin To Net: NetName=FT232RL_GND Pin=Jetson-A56
+Added Pin To Net: NetName=FT232RL_GND Pin=Jetson-A57
+Added Pin To Net: NetName=FT232RL_GND Pin=Jetson-A58
+Added Pin To Net: NetName=FT232RL_GND Pin=Jetson-A59
+Added Pin To Net: NetName=FT232RL_GND Pin=Jetson-A60
+Added Pin To Net: NetName=FT232RL_GND Pin=Jetson-A61
+Added Pin To Net: NetName=FT232RL_GND Pin=Jetson-A62
+Added Pin To Net: NetName=FT232RL_GND Pin=Jetson-A63
+Added Pin To Net: NetName=FT232RL_GND Pin=Jetson-A64
+Added Pin To Net: NetName=FT232RL_GND Pin=Jetson-A65
+Added Pin To Net: NetName=FT232RL_GND Pin=Jetson-A66
+Added Pin To Net: NetName=FT232RL_GND Pin=Jetson-A67
+Added Pin To Net: NetName=FT232RL_GND Pin=Jetson-A68
+Added Pin To Net: NetName=FT232RL_GND Pin=Jetson-A69
+Added Pin To Net: NetName=FT232RL_GND Pin=Jetson-A70
+Added Pin To Net: NetName=FT232RL_GND Pin=Jetson-A71
+Added Pin To Net: NetName=FT232RL_GND Pin=Jetson-A72
+Added Pin To Net: NetName=FT232RL_GND Pin=Jetson-A73
+Added Pin To Net: NetName=FT232RL_GND Pin=Jetson-A74
+Added Pin To Net: NetName=FT232RL_GND Pin=Jetson-A75
+Added Pin To Net: NetName=FT232RL_GND Pin=Jetson-A76
+Added Pin To Net: NetName=FT232RL_GND Pin=Jetson-A77
+Added Pin To Net: NetName=FT232RL_GND Pin=Jetson-A78
+Added Pin To Net: NetName=FT232RL_GND Pin=Jetson-A79
+Added Pin To Net: NetName=FT232RL_GND Pin=Jetson-A80
+Added Pin To Net: NetName=FT232RL_GND Pin=Jetson-A81
+Added Pin To Net: NetName=FT232RL_GND Pin=Jetson-A82
+Added Pin To Net: NetName=12V Pin=Jetson-B49
+Added Pin To Net: NetName=12V Pin=Jetson-B50
+Added Pin To Net: NetName=12V Pin=Jetson-B51
+Added Pin To Net: NetName=12V Pin=Jetson-B52
+Added Pin To Net: NetName=12V Pin=Jetson-B53
+Added Pin To Net: NetName=12V Pin=Jetson-B54
+Added Pin To Net: NetName=12V Pin=Jetson-B55
+Added Pin To Net: NetName=12V Pin=Jetson-B56
+Added Pin To Net: NetName=12V Pin=Jetson-B57
+Added Pin To Net: NetName=12V Pin=Jetson-B58
+Added Pin To Net: NetName=12V Pin=Jetson-B59
+Added Pin To Net: NetName=12V Pin=Jetson-B60
+Added Pin To Net: NetName=12V Pin=Jetson-B61
+Added Pin To Net: NetName=12V Pin=Jetson-B62
+Added Pin To Net: NetName=12V Pin=Jetson-B63
+Added Pin To Net: NetName=12V Pin=Jetson-B64
+Added Pin To Net: NetName=12V Pin=Jetson-B65
+Added Pin To Net: NetName=12V Pin=Jetson-B66
+Added Pin To Net: NetName=12V Pin=Jetson-B67
+Added Pin To Net: NetName=12V Pin=Jetson-B68
+Added Pin To Net: NetName=12V Pin=Jetson-B69
+Added Pin To Net: NetName=12V Pin=Jetson-B70
+Added Pin To Net: NetName=12V Pin=Jetson-B71
+Added Pin To Net: NetName=12V Pin=Jetson-B72
+Added Pin To Net: NetName=12V Pin=Jetson-B73
+Added Pin To Net: NetName=12V Pin=Jetson-B74
+Added Pin To Net: NetName=12V Pin=Jetson-B75
+Added Pin To Net: NetName=12V Pin=Jetson-B76
+Added Pin To Net: NetName=12V Pin=Jetson-B77
+Added Pin To Net: NetName=12V Pin=Jetson-B78
+Added Pin To Net: NetName=12V Pin=Jetson-B79
+Added Pin To Net: NetName=12V Pin=Jetson-B80
+Added Pin To Net: NetName=12V Pin=Jetson-B81
+Added Pin To Net: NetName=12V Pin=Jetson-B82
+Change Net Name : Old Net Name=LVDS_1H New Net Name=LVDS_1_P
+Change Net Name : Old Net Name=LVDS_1L New Net Name=LVDS_1_N
+Change Net Name : Old Net Name=LVDS_2H New Net Name=LVDS_2_P
+Change Net Name : Old Net Name=LVDS_2L New Net Name=LVDS_2_N
+Change Net Name : Old Net Name=LVDS_3L New Net Name=LVDS_3_N
+Change Net Name : Old Net Name=LVDS_4L New Net Name=LVDS_4_N
+Change Net Name : Old Net Name=LVDS_5L New Net Name=LVDS_5_N
+Change Net Name : Old Net Name=LVDS_6L New Net Name=LVDS_6_N
+Change Net Name : Old Net Name=LVDS_7L New Net Name=LVDS_7_N
+Change Net Name : Old Net Name=LVDS_8L New Net Name=LVDS_8_N
+Added Pin To Net: NetName=LVDS_3_P Pin=Flight-A38
+Added Pin To Net: NetName=LVDS_3_P Pin=Jetson-A38
+Added Net: Name=LVDS_3_P
+Added Pin To Net: NetName=LVDS_4_P Pin=Flight-B33
+Added Pin To Net: NetName=LVDS_4_P Pin=Jetson-B33
+Added Net: Name=LVDS_4_P
+Added Pin To Net: NetName=LVDS_5_P Pin=Flight-A27
+Added Pin To Net: NetName=LVDS_5_P Pin=Jetson-A27
+Added Net: Name=LVDS_5_P
+Added Pin To Net: NetName=LVDS_6_P Pin=Flight-A25
+Added Pin To Net: NetName=LVDS_6_P Pin=Jetson-A25
+Added Net: Name=LVDS_6_P
+Added Pin To Net: NetName=LVDS_7_P Pin=Flight-A15
+Added Pin To Net: NetName=LVDS_7_P Pin=Jetson-A15
+Added Net: Name=LVDS_7_P
+Added Pin To Net: NetName=LVDS_8_P Pin=Flight-A14
+Added Pin To Net: NetName=LVDS_8_P Pin=Jetson-A14
+Added Net: Name=LVDS_8_P
+Added Differential Pair: Name=LVDS_1
+Added Differential Pair: Name=LVDS_2
+Added Differential Pair: Name=LVDS_3
+Added Differential Pair: Name=LVDS_4
+Added Differential Pair: Name=LVDS_5
+Added Differential Pair: Name=LVDS_6
+Added Differential Pair: Name=LVDS_7
+Added Differential Pair: Name=LVDS_8
