@@ -1,0 +1,12 @@
+Replace Part BL_FUSE Blade Fuse in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\Motor.SchDoc with Blade Fuse from Schlib2.SchLib
+Replace Part BR_Fuse Blade Fuse in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\Motor.SchDoc with Blade Fuse from Schlib2.SchLib
+Replace Part FL_Fuse Blade Fuse in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\Motor.SchDoc with Blade Fuse from Schlib2.SchLib
+Replace Part FR_Fuse Blade Fuse in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\Motor.SchDoc with Blade Fuse from Schlib2.SchLib
+Replace Part MOTOR_BL XT60 in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\Motor.SchDoc with XT60 from Schlib2.SchLib
+Replace Part MOTOR_BR XT60 in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\Motor.SchDoc with XT60 from Schlib2.SchLib
+Replace Part MOTOR_FL XT60 in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\Motor.SchDoc with XT60 from Schlib2.SchLib
+Replace Part MOTOR_FR XT60 in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\Motor.SchDoc with XT60 from Schlib2.SchLib
+Replace Part PWM_BL Header 3 in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\Motor.SchDoc with Header 3 from Miscellaneous Connectors.IntLib
+Replace Part PWM_BR Header 3 in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\Motor.SchDoc with Header 3 from Miscellaneous Connectors.IntLib
+Replace Part PWM_FL Header 3 in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\Motor.SchDoc with Header 3 from Miscellaneous Connectors.IntLib
+Replace Part PWM_FR Header 3 in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\Motor.SchDoc with Header 3 from Miscellaneous Connectors.IntLib

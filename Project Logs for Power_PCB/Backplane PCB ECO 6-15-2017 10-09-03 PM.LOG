@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=5VD NewDesignator=D5V:.55V
+Change Component Designator: OldDesignator=12VD NewDesignator=D12V:.700V
+Change Component Designator: OldDesignator=PBL NewDesignator=PWM_BL
+Change Component Designator: OldDesignator=PBR NewDesignator=PWM_BR
+Change Component Designator: OldDesignator=PFL NewDesignator=PWM_FL
+Added Room: Name=BackPlane Connector
+Added Room: Name=BatteryCircuit
+Added Room: Name=Kill Switch
+Added Room: Name=MCU-Atmega2560
+Added Room: Name=Motor Controls
+Added Room: Name=Programmer
+Added Room: Name=U_VoltageRegulator3
+Added Room: Name=U_VoltageRegulator5V
+Added Room: Name=U_VoltageRegulator12V
