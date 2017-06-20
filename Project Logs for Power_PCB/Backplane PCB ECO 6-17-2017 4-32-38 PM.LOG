@@ -1,0 +1,5 @@
+Added Component: Designator=*(XT60)
+Added Pin To Net: NetName=MOTOR_FL_POSTIVE Pin=*-V+
+Added Pin To Net: NetName=FT232RL_GND Pin=*-V-
+Added Member To Class: ClassName=Motor Controls Member=Component * XT60_CONN
+Added Room: Name=BackPlane Connector

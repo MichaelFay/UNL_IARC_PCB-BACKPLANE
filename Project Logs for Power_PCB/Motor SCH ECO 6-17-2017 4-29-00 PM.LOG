@@ -1,0 +1,5 @@
+Replace Part BL_MOTOR XT60_CONN in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\Motor.SchDoc with XT60_CONN from Schlib2.SchLib
+Replace Part PWM_BL Header 3 in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\Motor.SchDoc with Header 3 from Miscellaneous Connectors.IntLib
+Replace Part PWM_BR Header 3 in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\Motor.SchDoc with Header 3 from Miscellaneous Connectors.IntLib
+Replace Part PWM_FL Header 3 in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\Motor.SchDoc with Header 3 from Miscellaneous Connectors.IntLib
+Replace Part PWM_FR Header 3 in C:\Users\Michael Fay\workspace\AIAA\uav\PCB\power\Power_PCB\Motor.SchDoc with Header 3 from Miscellaneous Connectors.IntLib

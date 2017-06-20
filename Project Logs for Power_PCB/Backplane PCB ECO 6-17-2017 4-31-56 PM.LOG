@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=Motor Controls Member=BL_MOTOR
+Added Component: Designator=*(XT60)
+Added Member To Class: ClassName=Motor Controls Member=Component * XT60_CONN

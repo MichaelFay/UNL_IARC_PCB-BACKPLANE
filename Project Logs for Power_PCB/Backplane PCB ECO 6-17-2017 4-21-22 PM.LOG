@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=Motor Controls Member=BR_Fuse
+Removed Member From Class: ClassName=Motor Controls Member=FL_Fuse
+Removed Member From Class: ClassName=Motor Controls Member=FR_Fuse
+Removed Member From Class: ClassName=Motor Controls Member=MOTOR_BL
+Removed Member From Class: ClassName=Motor Controls Member=MOTOR_BR
+Removed Member From Class: ClassName=Motor Controls Member=MOTOR_FL
+Removed Member From Class: ClassName=Motor Controls Member=MOTOR_FR
+Added Component: Designator=*(XT60)
+Added Member To Class: ClassName=Motor Controls Member=Component * XT60_CONN

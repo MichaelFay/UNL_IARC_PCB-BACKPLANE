@@ -1,0 +1,35 @@
+Removed Member From Class: ClassName=Motor Controls Member=BR_Fuse
+Removed Member From Class: ClassName=Motor Controls Member=FL_Fuse
+Removed Member From Class: ClassName=Motor Controls Member=FR_Fuse
+Added Component: Designator=FUES_BL(Blade Fuse Holder)
+Added Component: Designator=FUES_BR(Blade Fuse Holder)
+Added Component: Designator=FUES_FL(Blade Fuse Holder)
+Added Component: Designator=FUES_FR(Blade Fuse Holder)
+Added Pin To Net: NetName=MOTOR_FR_POSTIVE Pin=FUES_BL-SRC
+Added Pin To Net: NetName=MOTOR_FR_POSTIVE Pin=FUES_BL-SRC
+Added Pin To Net: NetName=MOTOR_FL_POSTIVE Pin=FUES_BR-SRC
+Added Pin To Net: NetName=MOTOR_FL_POSTIVE Pin=FUES_BR-SRC
+Added Pin To Net: NetName=MOTOR_BR_POSTIVE Pin=FUES_FL-SRC
+Added Pin To Net: NetName=MOTOR_BR_POSTIVE Pin=FUES_FL-SRC
+Added Pin To Net: NetName=MOTOR_BL_POSTIVE Pin=FUES_FR-SRC
+Added Pin To Net: NetName=MOTOR_BL_POSTIVE Pin=FUES_FR-SRC
+Added Pin To Net: NetName=FT232RL_GND Pin=MOTOR_BL-GND
+Added Pin To Net: NetName=FT232RL_GND Pin=MOTOR_BR-GND
+Added Pin To Net: NetName=FT232RL_GND Pin=MOTOR_FL-GND
+Added Pin To Net: NetName=FT232RL_GND Pin=MOTOR_FR-GND
+Added Pin To Net: NetName=NetFUES_BL_DRAIN Pin=FUES_BL-DRAIN
+Added Pin To Net: NetName=NetFUES_BL_DRAIN Pin=FUES_BL-DRAIN
+Added Net: Name=NetFUES_BL_DRAIN
+Added Pin To Net: NetName=NetFUES_BR_DRAIN Pin=FUES_BR-DRAIN
+Added Pin To Net: NetName=NetFUES_BR_DRAIN Pin=FUES_BR-DRAIN
+Added Net: Name=NetFUES_BR_DRAIN
+Added Pin To Net: NetName=NetFUES_FL_DRAIN Pin=FUES_FL-DRAIN
+Added Pin To Net: NetName=NetFUES_FL_DRAIN Pin=FUES_FL-DRAIN
+Added Net: Name=NetFUES_FL_DRAIN
+Added Pin To Net: NetName=NetFUES_FR_DRAIN Pin=FUES_FR-DRAIN
+Added Pin To Net: NetName=NetFUES_FR_DRAIN Pin=FUES_FR-DRAIN
+Added Net: Name=NetFUES_FR_DRAIN
+Added Member To Class: ClassName=Motor Controls Member=Component FUES_BL Blade Fuse
+Added Member To Class: ClassName=Motor Controls Member=Component FUES_BR Blade Fuse
+Added Member To Class: ClassName=Motor Controls Member=Component FUES_FL Blade Fuse
+Added Member To Class: ClassName=Motor Controls Member=Component FUES_FR Blade Fuse
